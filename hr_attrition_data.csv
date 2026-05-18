@@ -1,0 +1,1501 @@
+Employee_ID,Age,Department,Job_Role,Education,Monthly_Income_AED,Years_At_Company,Job_Satisfaction,Work_Life_Balance,OverTime,Distance_From_Home_km,Attrition
+EMP0001,31,HR,Analyst,PhD,11267.0,7.1,2,3,No,13,No
+EMP0002,58,Finance,Developer,Bachelor,5532.0,1.3,2,2,No,27,No
+EMP0003,37,Marketing,Executive,High School,3000.0,7.5,3,1,No,20,No
+EMP0004,22,Finance,Consultant,Bachelor,6840.0,5.1,2,1,No,17,No
+EMP0005,50,IT,Developer,PhD,6723.0,3.0,2,4,No,4,No
+EMP0006,47,HR,Consultant,PhD,9786.0,0.5,2,2,No,12,No
+EMP0007,51,Sales,Executive,Master,5163.0,3.2,4,2,No,20,No
+EMP0008,51,Finance,Executive,Master,9440.0,13.4,3,4,No,20,No
+EMP0009,30,Sales,Analyst,Bachelor,12736.0,13.4,3,1,No,18,No
+EMP0010,31,Operations,Analyst,Master,5471.0,4.5,1,2,Yes,16,No
+EMP0011,22,IT,Manager,PhD,7426.0,9.1,2,1,Yes,14,No
+EMP0012,58,IT,Executive,Bachelor,10283.0,1.8,2,3,Yes,2,Yes
+EMP0013,38,Operations,Manager,High School,7792.0,3.9,1,2,Yes,13,No
+EMP0014,58,Finance,Manager,Bachelor,6368.0,4.5,4,3,No,2,No
+EMP0015,33,Finance,Developer,PhD,7264.0,0.5,3,3,No,24,No
+EMP0016,46,Operations,Consultant,Master,4587.0,1.0,2,3,No,20,No
+EMP0017,55,Finance,Executive,Master,5321.0,0.6,3,2,Yes,7,No
+EMP0018,30,Finance,Consultant,Master,6543.0,13.5,2,1,No,6,No
+EMP0019,58,Sales,Consultant,Bachelor,3016.0,0.5,4,3,Yes,28,No
+EMP0020,36,Finance,Analyst,High School,3000.0,19.0,4,1,No,26,No
+EMP0021,35,Sales,Manager,Master,8857.0,1.4,1,3,No,17,No
+EMP0022,27,HR,Manager,Master,5869.0,0.6,3,3,No,16,No
+EMP0023,35,Marketing,Executive,High School,3000.0,2.9,2,2,Yes,22,No
+EMP0024,47,Sales,Analyst,Master,5869.0,7.6,2,2,No,5,No
+EMP0025,35,Finance,Analyst,Bachelor,10090.0,2.9,1,4,No,11,Yes
+EMP0026,50,IT,Consultant,Bachelor,7680.0,10.2,1,4,No,20,No
+EMP0027,44,Finance,Developer,Bachelor,8199.0,1.6,4,2,No,4,Yes
+EMP0028,52,Sales,Executive,Bachelor,9358.0,3.2,1,4,No,7,No
+EMP0029,52,IT,Manager,Master,3000.0,7.6,3,2,Yes,1,No
+EMP0030,47,Operations,Executive,Master,3751.0,9.5,3,4,Yes,11,No
+EMP0031,34,IT,Manager,Bachelor,3000.0,3.1,2,1,No,7,No
+EMP0032,23,Marketing,Developer,Bachelor,10126.0,5.3,4,1,Yes,7,No
+EMP0033,53,HR,Developer,Bachelor,6041.0,7.4,3,3,No,5,No
+EMP0034,58,HR,Consultant,Bachelor,4309.0,5.0,2,4,No,13,No
+EMP0035,49,HR,Analyst,Bachelor,3000.0,1.1,3,1,No,13,No
+EMP0036,40,Marketing,Executive,Bachelor,10329.0,9.4,2,4,No,27,No
+EMP0037,51,Marketing,Developer,Master,9484.0,9.1,1,4,No,27,No
+EMP0038,35,HR,Manager,High School,5882.0,2.6,2,3,No,29,No
+EMP0039,44,IT,Consultant,Bachelor,8749.0,5.4,3,2,No,13,No
+EMP0040,45,Finance,Analyst,Bachelor,11096.0,2.8,2,3,No,13,No
+EMP0041,52,Finance,Developer,Master,10504.0,4.3,3,1,No,28,No
+EMP0042,33,Sales,Manager,Master,5078.0,3.7,4,2,Yes,21,No
+EMP0043,50,Marketing,Developer,Master,8068.0,0.7,3,1,No,19,Yes
+EMP0044,32,IT,Consultant,Master,5588.0,14.2,3,4,No,20,No
+EMP0045,46,Sales,Analyst,Master,11229.0,1.3,3,3,No,9,No
+EMP0046,31,Finance,Executive,Bachelor,10609.0,10.7,3,4,No,2,No
+EMP0047,37,HR,Analyst,Bachelor,3000.0,1.4,3,2,Yes,17,No
+EMP0048,40,HR,Developer,Master,7542.0,1.4,4,1,No,27,No
+EMP0049,38,Finance,Analyst,PhD,3000.0,5.9,1,2,No,18,Yes
+EMP0050,29,Marketing,Developer,High School,13313.0,10.2,1,4,Yes,9,No
+EMP0051,46,Operations,Manager,Master,13698.0,1.0,2,1,Yes,16,No
+EMP0052,33,Sales,Executive,Master,9493.0,3.0,2,1,No,11,No
+EMP0053,39,Finance,Executive,Master,6371.0,1.0,3,4,No,23,No
+EMP0054,29,Marketing,Manager,Master,6608.0,20.5,4,1,Yes,6,No
+EMP0055,33,IT,Executive,High School,5730.0,3.4,2,3,No,4,No
+EMP0056,50,IT,Executive,Master,7137.0,8.8,1,4,No,22,No
+EMP0057,55,Operations,Consultant,Bachelor,4395.0,2.4,3,1,No,4,Yes
+EMP0058,42,Marketing,Analyst,High School,6509.0,0.5,2,2,No,15,No
+EMP0059,54,HR,Developer,Master,7975.0,1.7,4,3,No,7,No
+EMP0060,46,IT,Manager,High School,13178.0,14.2,3,2,Yes,6,Yes
+EMP0061,27,IT,Executive,Bachelor,3000.0,0.5,2,1,No,9,No
+EMP0062,26,Marketing,Manager,Bachelor,8426.0,5.5,4,4,No,13,No
+EMP0063,29,IT,Consultant,Bachelor,9799.0,18.8,4,2,No,22,No
+EMP0064,46,HR,Executive,Bachelor,6176.0,2.5,1,2,Yes,27,Yes
+EMP0065,46,HR,Consultant,Bachelor,9564.0,1.9,2,4,No,21,No
+EMP0066,56,IT,Developer,Bachelor,5025.0,1.4,2,4,Yes,16,No
+EMP0067,37,Operations,Analyst,Master,7450.0,2.5,1,4,Yes,5,No
+EMP0068,35,Marketing,Developer,Bachelor,10404.0,0.9,3,2,No,23,No
+EMP0069,46,IT,Analyst,Bachelor,8515.0,1.9,3,3,No,2,Yes
+EMP0070,37,IT,Executive,Bachelor,6952.0,3.5,4,2,No,23,No
+EMP0071,28,Sales,Executive,Bachelor,12656.0,3.2,3,4,Yes,5,Yes
+EMP0072,43,Finance,Manager,Master,9430.0,4.6,2,1,No,23,No
+EMP0073,44,Marketing,Manager,Bachelor,7584.0,8.6,2,2,Yes,19,Yes
+EMP0074,33,IT,Developer,Bachelor,7751.0,1.8,2,1,No,11,No
+EMP0075,34,Finance,Developer,Master,14185.0,16.2,1,3,No,4,Yes
+EMP0076,50,Finance,Analyst,Master,9056.0,0.9,2,3,No,2,No
+EMP0077,54,HR,Consultant,High School,10579.0,12.3,3,4,No,1,No
+EMP0078,37,HR,Manager,Master,7643.0,3.4,1,2,Yes,2,No
+EMP0079,55,IT,Executive,Bachelor,10681.0,2.3,3,4,Yes,28,No
+EMP0080,47,Finance,Executive,High School,11314.0,2.3,4,1,No,9,No
+EMP0081,31,IT,Executive,Master,8341.0,1.8,3,4,Yes,26,No
+EMP0082,59,Operations,Consultant,Bachelor,7096.0,2.7,4,1,No,11,No
+EMP0083,22,HR,Analyst,Bachelor,13906.0,0.5,4,3,No,7,Yes
+EMP0084,40,Sales,Developer,Master,6461.0,0.5,2,3,No,22,No
+EMP0085,45,HR,Analyst,Bachelor,6495.0,1.5,2,3,Yes,27,No
+EMP0086,25,Finance,Manager,Bachelor,6644.0,3.7,3,3,Yes,28,No
+EMP0087,51,IT,Consultant,High School,3902.0,1.1,4,2,No,6,No
+EMP0088,38,Operations,Developer,PhD,5337.0,3.3,1,3,No,27,No
+EMP0089,42,HR,Executive,Master,7860.0,4.3,1,1,No,26,Yes
+EMP0090,40,Operations,Manager,Bachelor,8041.0,4.5,4,1,No,26,No
+EMP0091,36,Sales,Consultant,Bachelor,11960.0,7.6,1,2,No,5,No
+EMP0092,37,Operations,Analyst,Bachelor,8864.0,4.8,2,1,Yes,10,Yes
+EMP0093,39,Finance,Manager,Bachelor,8827.0,5.2,2,3,No,14,No
+EMP0094,47,Sales,Developer,Master,11253.0,4.4,4,2,Yes,2,No
+EMP0095,39,Operations,Executive,Bachelor,5350.0,2.3,1,1,No,20,No
+EMP0096,54,Marketing,Developer,Bachelor,6660.0,1.1,2,1,No,16,Yes
+EMP0097,39,IT,Analyst,Bachelor,7759.0,5.2,1,3,No,12,No
+EMP0098,38,HR,Developer,Master,4506.0,1.3,1,4,Yes,14,Yes
+EMP0099,48,Operations,Manager,Bachelor,3361.0,4.3,1,4,Yes,5,No
+EMP0100,34,Finance,Analyst,Master,12228.0,9.5,2,4,No,5,No
+EMP0101,52,Sales,Developer,Master,5963.0,4.1,3,2,Yes,21,No
+EMP0102,39,IT,Executive,Bachelor,7367.0,0.9,2,2,No,22,No
+EMP0103,39,HR,Executive,Bachelor,11779.0,4.2,1,1,No,10,Yes
+EMP0104,38,IT,Manager,PhD,14934.0,9.9,2,3,No,13,No
+EMP0105,22,IT,Manager,Master,8270.0,1.1,1,2,No,6,No
+EMP0106,53,IT,Manager,Bachelor,9466.0,4.7,1,1,No,18,Yes
+EMP0107,59,Sales,Manager,High School,11160.0,0.5,4,3,Yes,2,No
+EMP0108,31,Finance,Consultant,Bachelor,6298.0,4.6,1,3,Yes,5,Yes
+EMP0109,22,Operations,Consultant,Bachelor,10412.0,11.9,3,2,Yes,28,No
+EMP0110,44,HR,Developer,Master,6675.0,0.7,2,4,No,21,No
+EMP0111,54,Operations,Analyst,Bachelor,3754.0,1.5,4,4,No,15,No
+EMP0112,24,Marketing,Analyst,Bachelor,15043.0,12.4,1,3,Yes,8,No
+EMP0113,25,Finance,Developer,Bachelor,4261.0,1.1,4,1,Yes,19,Yes
+EMP0114,53,Marketing,Manager,Bachelor,4218.0,6.6,2,4,No,2,No
+EMP0115,57,Finance,Consultant,Bachelor,7043.0,4.2,1,3,No,15,No
+EMP0116,49,Finance,Manager,Master,4452.0,1.3,3,1,No,16,No
+EMP0117,40,Marketing,Manager,Bachelor,7377.0,7.9,1,2,No,13,No
+EMP0118,35,Finance,Consultant,Bachelor,12436.0,3.2,2,2,No,27,No
+EMP0119,51,IT,Developer,Bachelor,9153.0,9.1,1,3,No,17,No
+EMP0120,33,Finance,Manager,Bachelor,8219.0,3.3,2,2,Yes,11,No
+EMP0121,44,Marketing,Developer,Bachelor,8981.0,7.7,1,1,No,20,No
+EMP0122,59,Finance,Analyst,Master,7428.0,2.6,3,3,No,8,No
+EMP0123,33,HR,Analyst,Bachelor,12211.0,9.4,2,1,Yes,17,No
+EMP0124,43,Operations,Consultant,Master,13520.0,7.9,1,2,Yes,9,No
+EMP0125,55,Finance,Manager,Master,8822.0,3.2,4,2,No,3,No
+EMP0126,53,Operations,Analyst,Bachelor,6129.0,0.7,1,1,Yes,1,Yes
+EMP0127,46,Finance,Executive,Bachelor,11978.0,0.5,2,3,No,6,No
+EMP0128,54,Sales,Analyst,PhD,12393.0,4.1,4,4,No,25,No
+EMP0129,59,HR,Manager,PhD,11650.0,1.0,4,1,Yes,29,No
+EMP0130,31,Operations,Consultant,PhD,12219.0,6.1,2,1,No,29,No
+EMP0131,59,Sales,Analyst,Master,5685.0,0.5,2,2,No,5,No
+EMP0132,48,HR,Analyst,Bachelor,6826.0,1.2,2,2,No,18,No
+EMP0133,29,Sales,Executive,Bachelor,4919.0,0.5,1,2,Yes,27,No
+EMP0134,30,Operations,Analyst,Master,5158.0,5.0,3,4,Yes,13,Yes
+EMP0135,43,Finance,Consultant,Bachelor,7289.0,3.5,4,2,Yes,25,No
+EMP0136,30,Sales,Analyst,Master,10086.0,10.6,4,1,Yes,23,No
+EMP0137,50,Operations,Analyst,Master,12662.0,17.8,1,3,Yes,20,Yes
+EMP0138,52,IT,Developer,High School,7428.0,1.0,1,4,Yes,12,Yes
+EMP0139,47,HR,Manager,Bachelor,12217.0,4.5,2,3,No,23,No
+EMP0140,47,Marketing,Developer,Bachelor,11564.0,10.8,2,4,No,20,No
+EMP0141,36,Finance,Manager,Bachelor,6963.0,17.5,2,2,No,15,No
+EMP0142,39,HR,Manager,Master,8736.0,10.1,4,2,No,22,No
+EMP0143,43,Finance,Executive,PhD,8074.0,1.7,3,3,No,14,No
+EMP0144,35,Finance,Manager,Bachelor,5504.0,11.2,4,1,No,22,No
+EMP0145,55,Finance,Developer,High School,8241.0,2.0,4,2,Yes,27,Yes
+EMP0146,26,Sales,Manager,Master,9476.0,5.1,3,2,No,12,No
+EMP0147,45,Marketing,Developer,Bachelor,5929.0,6.0,2,4,No,14,No
+EMP0148,52,HR,Manager,Master,9787.0,0.5,2,3,No,15,No
+EMP0149,50,IT,Developer,PhD,6124.0,0.7,4,1,Yes,16,No
+EMP0150,49,HR,Consultant,PhD,9583.0,2.1,4,2,No,7,No
+EMP0151,31,Finance,Manager,Master,9785.0,1.1,4,3,Yes,29,No
+EMP0152,29,IT,Analyst,Bachelor,7500.0,0.5,4,2,No,10,No
+EMP0153,44,IT,Manager,Bachelor,13586.0,11.7,4,1,No,9,No
+EMP0154,54,Operations,Manager,Bachelor,7208.0,1.6,2,1,No,9,Yes
+EMP0155,25,HR,Developer,PhD,4318.0,3.6,4,3,Yes,28,No
+EMP0156,31,Operations,Consultant,Bachelor,7177.0,2.2,3,1,No,6,No
+EMP0157,34,IT,Developer,High School,3323.0,11.8,4,4,Yes,24,Yes
+EMP0158,26,IT,Analyst,Bachelor,10688.0,13.4,1,3,No,6,No
+EMP0159,52,Finance,Analyst,Bachelor,7262.0,1.7,4,2,No,16,Yes
+EMP0160,28,Finance,Developer,Bachelor,12582.0,6.8,3,4,Yes,9,No
+EMP0161,32,Operations,Manager,Bachelor,8342.0,2.6,3,3,Yes,8,No
+EMP0162,52,IT,Developer,Master,7381.0,1.5,1,1,Yes,16,Yes
+EMP0163,31,Marketing,Developer,Bachelor,7798.0,5.1,1,1,No,21,No
+EMP0164,24,HR,Executive,High School,5862.0,0.5,4,2,No,8,No
+EMP0165,23,Sales,Consultant,Bachelor,10075.0,4.0,3,3,No,4,No
+EMP0166,35,Sales,Manager,Master,15538.0,16.8,3,4,No,4,No
+EMP0167,33,Sales,Manager,Master,8789.0,5.8,2,1,No,11,No
+EMP0168,27,Marketing,Analyst,Bachelor,6278.0,1.6,3,1,No,5,No
+EMP0169,51,Marketing,Developer,Bachelor,7432.0,23.4,3,1,Yes,2,No
+EMP0170,42,Operations,Developer,Master,4558.0,8.3,3,1,Yes,21,Yes
+EMP0171,56,HR,Manager,Bachelor,11400.0,0.5,1,2,Yes,27,Yes
+EMP0172,54,Sales,Developer,Bachelor,9648.0,7.0,2,4,Yes,19,Yes
+EMP0173,52,IT,Consultant,PhD,7684.0,7.4,1,3,No,17,No
+EMP0174,44,HR,Manager,Bachelor,6173.0,2.6,3,2,Yes,28,No
+EMP0175,27,HR,Analyst,Bachelor,9088.0,7.5,1,2,Yes,10,No
+EMP0176,40,Operations,Developer,Bachelor,4821.0,8.5,3,4,No,19,No
+EMP0177,23,Operations,Analyst,Master,4737.0,0.7,3,4,No,14,Yes
+EMP0178,35,HR,Executive,Bachelor,12838.0,0.5,2,2,No,9,No
+EMP0179,40,HR,Executive,Bachelor,5426.0,9.0,2,3,No,28,No
+EMP0180,49,HR,Consultant,Bachelor,4380.0,0.6,1,4,No,7,No
+EMP0181,41,HR,Developer,Master,10617.0,6.2,4,2,Yes,28,No
+EMP0182,59,Sales,Manager,Bachelor,7871.0,3.0,2,1,No,4,No
+EMP0183,29,IT,Manager,Bachelor,8383.0,13.8,3,4,No,4,No
+EMP0184,46,Finance,Consultant,High School,7168.0,3.3,4,3,No,10,No
+EMP0185,37,Marketing,Executive,Master,9750.0,3.3,4,1,Yes,27,No
+EMP0186,28,Marketing,Executive,Bachelor,5700.0,5.7,4,1,No,18,No
+EMP0187,31,HR,Executive,Bachelor,8544.0,2.4,3,2,No,4,No
+EMP0188,22,IT,Analyst,High School,6158.0,5.1,2,3,No,7,No
+EMP0189,26,Operations,Consultant,Bachelor,13435.0,10.2,3,2,No,19,No
+EMP0190,36,Sales,Developer,High School,4872.0,2.3,3,3,Yes,4,Yes
+EMP0191,26,Operations,Manager,Bachelor,13355.0,0.5,4,2,No,4,No
+EMP0192,28,Finance,Analyst,Master,9520.0,1.4,4,1,No,9,No
+EMP0193,31,Sales,Consultant,Bachelor,4024.0,10.2,4,4,No,18,No
+EMP0194,58,HR,Executive,PhD,3000.0,5.1,2,4,Yes,2,Yes
+EMP0195,48,HR,Manager,Bachelor,7437.0,4.9,4,2,No,29,No
+EMP0196,42,Finance,Executive,High School,7457.0,2.1,3,2,No,19,No
+EMP0197,31,IT,Developer,Bachelor,14851.0,8.0,3,3,No,25,No
+EMP0198,38,Operations,Executive,PhD,5390.0,1.8,1,4,Yes,17,Yes
+EMP0199,33,Finance,Consultant,Master,4199.0,0.5,3,3,No,11,No
+EMP0200,39,Marketing,Consultant,Master,5403.0,18.4,2,3,No,14,No
+EMP0201,55,Operations,Analyst,Bachelor,14755.0,1.1,2,2,No,17,No
+EMP0202,33,IT,Analyst,Master,9329.0,1.2,1,2,No,3,No
+EMP0203,36,Sales,Consultant,Bachelor,9084.0,4.1,3,2,No,13,No
+EMP0204,37,IT,Consultant,Bachelor,5972.0,2.1,3,2,No,10,No
+EMP0205,43,HR,Executive,Bachelor,7404.0,6.5,4,2,No,1,No
+EMP0206,27,Finance,Developer,Master,5479.0,5.4,2,3,Yes,24,No
+EMP0207,35,Marketing,Developer,Master,13674.0,17.4,3,4,Yes,14,Yes
+EMP0208,25,IT,Manager,Bachelor,13389.0,9.4,2,1,No,21,No
+EMP0209,53,IT,Executive,Bachelor,8539.0,2.9,1,2,No,22,No
+EMP0210,34,Finance,Manager,Bachelor,6829.0,10.0,2,3,No,18,No
+EMP0211,45,Operations,Executive,Bachelor,4423.0,5.2,1,3,No,18,Yes
+EMP0212,39,Operations,Executive,Master,6290.0,5.9,1,2,No,13,Yes
+EMP0213,51,IT,Analyst,Bachelor,10364.0,17.2,2,3,Yes,21,No
+EMP0214,27,Finance,Executive,Bachelor,7193.0,1.4,4,2,No,18,No
+EMP0215,42,Finance,Manager,Bachelor,8936.0,7.7,4,1,No,23,No
+EMP0216,27,IT,Analyst,Master,8409.0,5.1,1,4,No,7,No
+EMP0217,28,IT,Manager,Bachelor,9602.0,5.5,1,1,Yes,7,No
+EMP0218,38,IT,Manager,High School,11136.0,2.6,4,3,No,24,No
+EMP0219,32,Operations,Developer,Bachelor,5685.0,0.7,4,2,No,29,No
+EMP0220,26,HR,Executive,Bachelor,3412.0,9.1,2,3,No,27,No
+EMP0221,44,Operations,Manager,Bachelor,14172.0,0.9,2,3,Yes,11,No
+EMP0222,41,Finance,Analyst,Master,6731.0,4.8,3,4,Yes,19,No
+EMP0223,43,HR,Consultant,Master,11481.0,3.7,2,3,No,28,No
+EMP0224,31,IT,Manager,Master,7283.0,2.2,1,1,No,24,Yes
+EMP0225,57,Operations,Developer,Master,5965.0,0.6,2,4,No,16,No
+EMP0226,57,Operations,Analyst,High School,6515.0,5.5,4,3,No,24,No
+EMP0227,33,Operations,Developer,Bachelor,6203.0,5.6,3,1,No,8,No
+EMP0228,40,Marketing,Developer,High School,4644.0,7.4,2,2,Yes,5,No
+EMP0229,41,Operations,Manager,Master,5340.0,1.4,1,3,Yes,8,No
+EMP0230,39,IT,Executive,Bachelor,8936.0,10.6,4,1,No,8,No
+EMP0231,32,HR,Executive,Bachelor,4478.0,1.7,4,3,Yes,28,No
+EMP0232,58,IT,Consultant,Master,3000.0,6.0,3,1,Yes,3,Yes
+EMP0233,22,Sales,Analyst,PhD,14726.0,4.3,4,1,No,28,Yes
+EMP0234,52,Operations,Consultant,Bachelor,10028.0,2.5,3,2,Yes,25,Yes
+EMP0235,43,Marketing,Manager,Master,8048.0,1.7,2,1,No,24,No
+EMP0236,54,Finance,Consultant,Master,8658.0,1.1,2,4,No,14,No
+EMP0237,39,Sales,Executive,High School,5956.0,5.5,2,2,No,27,No
+EMP0238,35,Sales,Analyst,Bachelor,8957.0,8.6,1,4,Yes,9,Yes
+EMP0239,25,Finance,Manager,Master,5576.0,1.9,2,4,No,6,No
+EMP0240,53,IT,Executive,PhD,5003.0,1.7,4,2,No,7,No
+EMP0241,54,Operations,Analyst,High School,7322.0,1.0,3,4,No,9,No
+EMP0242,54,Operations,Executive,Bachelor,10039.0,9.4,2,1,Yes,28,Yes
+EMP0243,59,Sales,Executive,Bachelor,7434.0,18.1,4,2,No,1,No
+EMP0244,37,IT,Executive,Master,7010.0,1.2,4,4,Yes,6,No
+EMP0245,42,Finance,Executive,High School,12121.0,3.5,2,3,No,3,No
+EMP0246,53,Sales,Consultant,Master,3568.0,3.0,3,4,No,13,No
+EMP0247,47,Finance,Consultant,Bachelor,4848.0,4.6,4,2,No,29,No
+EMP0248,22,Finance,Developer,Master,4645.0,3.3,1,3,No,17,No
+EMP0249,54,IT,Developer,High School,9021.0,1.8,4,4,No,14,No
+EMP0250,47,Finance,Developer,Bachelor,6699.0,9.4,3,3,Yes,6,No
+EMP0251,24,HR,Analyst,PhD,4486.0,1.7,2,1,No,13,No
+EMP0252,52,HR,Executive,PhD,5032.0,1.9,2,4,No,12,No
+EMP0253,39,HR,Analyst,PhD,8461.0,4.9,2,2,No,3,No
+EMP0254,28,Marketing,Consultant,Master,6611.0,1.8,2,4,Yes,3,No
+EMP0255,44,Finance,Developer,Bachelor,8189.0,1.7,3,3,No,22,No
+EMP0256,51,Sales,Consultant,Master,10597.0,3.4,2,2,Yes,19,No
+EMP0257,29,Sales,Developer,Bachelor,9288.0,5.2,2,1,No,24,No
+EMP0258,50,HR,Developer,PhD,4529.0,3.6,1,4,No,8,No
+EMP0259,41,Finance,Developer,Master,3000.0,7.3,2,4,Yes,16,No
+EMP0260,22,Operations,Developer,High School,6777.0,1.1,3,3,No,9,Yes
+EMP0261,29,Finance,Executive,Master,8755.0,3.5,1,4,No,14,No
+EMP0262,51,Marketing,Consultant,Master,13524.0,10.7,2,3,Yes,6,No
+EMP0263,45,IT,Developer,PhD,8604.0,3.4,3,1,Yes,10,Yes
+EMP0264,38,Marketing,Developer,Master,9612.0,15.4,3,2,No,4,No
+EMP0265,24,Marketing,Developer,Bachelor,5556.0,5.2,4,1,No,19,No
+EMP0266,56,Sales,Developer,High School,6167.0,0.5,4,2,No,12,Yes
+EMP0267,34,HR,Developer,Bachelor,9219.0,1.4,1,4,Yes,7,No
+EMP0268,32,Sales,Executive,PhD,9396.0,4.7,3,2,Yes,12,No
+EMP0269,37,Sales,Analyst,Bachelor,12182.0,3.6,1,1,No,21,No
+EMP0270,54,IT,Manager,Bachelor,9766.0,7.1,4,3,Yes,11,No
+EMP0271,27,Finance,Developer,Bachelor,9055.0,1.3,3,1,Yes,27,No
+EMP0272,49,HR,Executive,Bachelor,7978.0,7.5,3,2,Yes,10,No
+EMP0273,38,Finance,Consultant,Bachelor,8173.0,7.4,4,2,No,12,No
+EMP0274,27,Operations,Consultant,Bachelor,9631.0,2.9,3,2,No,24,No
+EMP0275,41,Marketing,Executive,Master,7028.0,6.1,2,1,No,22,No
+EMP0276,33,HR,Developer,Bachelor,12567.0,15.8,1,1,No,26,No
+EMP0277,29,HR,Analyst,PhD,4807.0,7.9,4,4,No,16,No
+EMP0278,46,HR,Consultant,High School,7609.0,0.6,1,3,Yes,12,Yes
+EMP0279,54,IT,Developer,Master,4034.0,8.6,3,1,No,11,No
+EMP0280,49,Operations,Executive,High School,8491.0,5.0,1,1,No,14,Yes
+EMP0281,22,IT,Executive,Bachelor,7131.0,0.5,1,4,Yes,10,No
+EMP0282,48,Marketing,Executive,PhD,14653.0,2.4,3,3,No,26,No
+EMP0283,31,Sales,Analyst,PhD,5839.0,24.3,3,3,No,20,No
+EMP0284,49,HR,Consultant,Bachelor,8228.0,9.6,1,4,No,26,Yes
+EMP0285,48,Sales,Developer,Bachelor,9212.0,0.5,2,2,No,8,No
+EMP0286,45,Marketing,Consultant,Bachelor,10036.0,1.3,3,1,No,6,Yes
+EMP0287,47,Operations,Executive,Master,5098.0,5.1,3,2,No,9,No
+EMP0288,41,Operations,Manager,Bachelor,5452.0,0.5,4,2,No,7,No
+EMP0289,55,Operations,Manager,Bachelor,10235.0,2.9,4,1,No,8,No
+EMP0290,34,Marketing,Consultant,Master,6403.0,4.8,3,1,No,5,No
+EMP0291,33,Marketing,Executive,Bachelor,14574.0,4.6,1,4,No,26,No
+EMP0292,51,Operations,Consultant,Bachelor,9974.0,10.8,4,4,No,25,No
+EMP0293,52,Operations,Executive,Bachelor,7174.0,3.7,4,2,No,23,No
+EMP0294,53,Operations,Consultant,Master,8250.0,3.1,2,3,No,8,No
+EMP0295,50,IT,Consultant,PhD,7916.0,1.9,3,1,Yes,3,Yes
+EMP0296,59,Marketing,Analyst,Bachelor,8065.0,3.0,4,4,Yes,19,No
+EMP0297,37,Marketing,Executive,High School,8058.0,1.1,3,1,No,12,No
+EMP0298,42,Finance,Developer,Bachelor,10428.0,0.7,2,1,Yes,28,Yes
+EMP0299,43,Marketing,Analyst,High School,11236.0,0.5,1,4,No,6,No
+EMP0300,42,Sales,Executive,Master,13254.0,1.7,3,2,Yes,1,No
+EMP0301,57,Marketing,Developer,Master,12310.0,8.5,2,1,No,14,No
+EMP0302,52,Sales,Executive,Bachelor,4294.0,0.5,4,1,Yes,9,Yes
+EMP0303,42,Finance,Executive,Bachelor,10112.0,5.9,3,3,No,1,No
+EMP0304,42,Operations,Developer,Master,11847.0,13.3,3,3,No,5,No
+EMP0305,55,Finance,Executive,Bachelor,8332.0,8.8,4,2,No,3,No
+EMP0306,24,Operations,Manager,Bachelor,8835.0,5.9,2,1,No,3,No
+EMP0307,55,Marketing,Executive,Master,7205.0,3.5,2,2,Yes,2,No
+EMP0308,55,Operations,Consultant,Bachelor,9297.0,4.2,3,3,No,23,No
+EMP0309,56,Operations,Manager,Bachelor,7733.0,3.6,2,4,Yes,21,Yes
+EMP0310,34,HR,Consultant,High School,8205.0,1.7,3,3,Yes,27,No
+EMP0311,40,Marketing,Consultant,Bachelor,9814.0,3.4,4,3,No,17,No
+EMP0312,35,Marketing,Executive,Bachelor,10994.0,1.8,1,3,Yes,19,No
+EMP0313,24,HR,Developer,High School,11104.0,12.6,2,2,Yes,26,No
+EMP0314,59,HR,Analyst,Bachelor,10134.0,2.3,1,4,No,21,Yes
+EMP0315,53,Sales,Analyst,Master,7919.0,1.7,4,3,No,13,Yes
+EMP0316,39,Sales,Analyst,Bachelor,9382.0,4.1,1,2,No,5,No
+EMP0317,45,Marketing,Executive,Bachelor,9494.0,3.0,3,3,No,15,No
+EMP0318,39,Marketing,Executive,High School,9735.0,4.4,4,4,Yes,18,No
+EMP0319,55,Sales,Consultant,High School,6465.0,2.8,1,3,Yes,19,Yes
+EMP0320,32,Marketing,Consultant,Bachelor,4785.0,5.1,2,4,No,18,No
+EMP0321,37,Operations,Executive,Bachelor,6906.0,0.5,4,2,Yes,29,Yes
+EMP0322,37,HR,Executive,Bachelor,7574.0,9.8,4,1,No,16,No
+EMP0323,38,Marketing,Developer,Bachelor,5084.0,4.8,2,1,No,21,Yes
+EMP0324,48,Operations,Analyst,Bachelor,7693.0,3.7,2,2,Yes,27,Yes
+EMP0325,24,Operations,Developer,High School,7927.0,1.5,3,2,No,16,No
+EMP0326,28,Operations,Developer,Bachelor,11086.0,3.8,3,1,No,2,No
+EMP0327,55,IT,Manager,PhD,6244.0,2.0,3,1,No,1,No
+EMP0328,27,Operations,Consultant,Bachelor,12303.0,1.8,2,1,No,26,Yes
+EMP0329,30,Finance,Analyst,Bachelor,3853.0,0.5,4,4,No,14,No
+EMP0330,51,Operations,Consultant,Bachelor,13077.0,2.4,2,1,Yes,3,No
+EMP0331,41,Sales,Consultant,Bachelor,11378.0,4.4,2,1,Yes,21,No
+EMP0332,47,Sales,Manager,Bachelor,9348.0,17.1,3,1,No,26,No
+EMP0333,37,Sales,Analyst,Bachelor,8810.0,2.9,4,3,No,23,No
+EMP0334,57,Operations,Executive,Bachelor,7947.0,5.8,1,3,No,21,No
+EMP0335,54,Sales,Analyst,Master,10667.0,3.7,2,2,No,20,No
+EMP0336,40,HR,Analyst,PhD,16048.0,1.0,3,4,No,5,No
+EMP0337,48,Marketing,Analyst,Bachelor,8642.0,0.6,1,4,Yes,6,Yes
+EMP0338,48,IT,Developer,PhD,11422.0,0.7,1,1,Yes,29,Yes
+EMP0339,32,Operations,Analyst,Master,4968.0,0.5,2,3,Yes,16,Yes
+EMP0340,30,HR,Analyst,Master,9065.0,1.0,4,1,No,1,No
+EMP0341,50,Marketing,Consultant,Bachelor,4207.0,5.3,2,2,No,8,No
+EMP0342,54,Marketing,Developer,Bachelor,7628.0,1.9,2,4,Yes,4,Yes
+EMP0343,29,Finance,Analyst,Bachelor,8649.0,0.5,4,2,No,22,No
+EMP0344,45,Sales,Executive,Master,11912.0,6.2,3,2,No,18,No
+EMP0345,26,IT,Developer,PhD,7989.0,7.0,4,1,Yes,2,No
+EMP0346,44,Operations,Consultant,Bachelor,6496.0,10.4,3,2,No,7,No
+EMP0347,36,Operations,Executive,Bachelor,6203.0,7.3,2,3,No,5,No
+EMP0348,57,IT,Consultant,High School,7556.0,9.7,4,1,No,17,No
+EMP0349,42,HR,Consultant,High School,15803.0,8.1,3,3,No,3,No
+EMP0350,59,Operations,Developer,Bachelor,5282.0,5.7,2,1,No,13,No
+EMP0351,25,Operations,Executive,Bachelor,9431.0,3.8,4,1,No,5,No
+EMP0352,36,Finance,Manager,Master,7345.0,6.1,3,1,Yes,19,No
+EMP0353,59,Operations,Analyst,Bachelor,9993.0,6.5,1,2,Yes,7,No
+EMP0354,36,IT,Manager,Bachelor,4663.0,7.6,1,3,No,28,Yes
+EMP0355,56,Marketing,Manager,Bachelor,6015.0,6.9,4,1,Yes,5,Yes
+EMP0356,43,Marketing,Executive,PhD,5055.0,4.5,4,1,No,11,Yes
+EMP0357,36,Finance,Executive,Bachelor,5425.0,1.3,3,2,No,5,No
+EMP0358,52,Finance,Executive,Bachelor,13195.0,5.5,3,1,No,2,No
+EMP0359,39,Sales,Analyst,Bachelor,5356.0,2.8,3,2,No,18,No
+EMP0360,32,HR,Analyst,High School,5227.0,10.6,4,4,Yes,20,No
+EMP0361,45,Finance,Executive,High School,8050.0,8.0,2,4,Yes,13,No
+EMP0362,23,IT,Consultant,Bachelor,7817.0,2.6,1,1,Yes,25,No
+EMP0363,50,HR,Consultant,Bachelor,5833.0,5.9,4,4,No,8,No
+EMP0364,32,IT,Developer,Master,16376.0,4.4,1,3,Yes,8,No
+EMP0365,33,Finance,Developer,High School,8602.0,1.2,1,1,No,7,No
+EMP0366,23,Marketing,Analyst,Master,3914.0,8.9,1,1,No,13,No
+EMP0367,40,Marketing,Analyst,Master,7901.0,7.4,3,3,No,20,No
+EMP0368,56,IT,Consultant,Bachelor,6433.0,10.1,4,4,No,23,No
+EMP0369,33,Marketing,Executive,Bachelor,7762.0,1.1,3,3,Yes,9,No
+EMP0370,32,HR,Consultant,Master,3940.0,1.3,2,1,No,27,No
+EMP0371,58,IT,Analyst,High School,5960.0,2.5,4,3,No,13,No
+EMP0372,28,Marketing,Developer,Bachelor,7688.0,13.9,1,2,No,18,No
+EMP0373,25,Sales,Analyst,Master,14261.0,22.7,2,2,No,19,No
+EMP0374,56,HR,Manager,Bachelor,4234.0,4.2,3,4,No,27,No
+EMP0375,43,IT,Consultant,PhD,11588.0,13.4,2,4,No,28,No
+EMP0376,38,Sales,Manager,Bachelor,8602.0,1.9,3,2,No,23,No
+EMP0377,40,Finance,Executive,Master,6512.0,18.8,1,2,Yes,17,No
+EMP0378,43,Sales,Manager,Master,14605.0,2.3,2,4,No,29,No
+EMP0379,45,Marketing,Developer,Bachelor,8775.0,2.3,4,3,No,8,No
+EMP0380,41,Sales,Consultant,PhD,11489.0,4.7,1,2,No,29,No
+EMP0381,29,Sales,Consultant,Bachelor,4493.0,0.9,2,1,No,20,Yes
+EMP0382,38,Operations,Consultant,Master,6909.0,9.9,4,3,Yes,25,No
+EMP0383,25,Marketing,Manager,Bachelor,8569.0,12.7,4,4,Yes,6,No
+EMP0384,49,IT,Executive,Bachelor,9520.0,4.8,1,3,No,21,No
+EMP0385,54,Operations,Developer,Bachelor,8328.0,0.7,4,2,No,11,No
+EMP0386,45,Finance,Analyst,Bachelor,7536.0,2.9,1,3,No,19,No
+EMP0387,56,Operations,Manager,PhD,4808.0,1.1,2,3,Yes,22,No
+EMP0388,47,Marketing,Consultant,Master,9403.0,0.8,2,2,No,16,No
+EMP0389,38,IT,Developer,Master,9859.0,5.6,2,3,Yes,1,No
+EMP0390,40,Sales,Analyst,Bachelor,6262.0,1.4,4,3,No,20,No
+EMP0391,41,HR,Executive,PhD,9420.0,2.3,2,1,No,25,No
+EMP0392,54,HR,Manager,Bachelor,8388.0,2.1,3,3,Yes,15,No
+EMP0393,46,Sales,Executive,Master,8969.0,8.7,1,2,Yes,1,No
+EMP0394,30,HR,Manager,Bachelor,10734.0,9.2,4,4,No,13,No
+EMP0395,44,Operations,Manager,Bachelor,7021.0,0.5,2,2,No,26,No
+EMP0396,33,Marketing,Consultant,Bachelor,12191.0,1.6,2,2,No,11,No
+EMP0397,30,HR,Manager,Bachelor,7356.0,3.5,1,2,No,14,Yes
+EMP0398,46,Marketing,Developer,Bachelor,3389.0,7.9,2,1,No,18,Yes
+EMP0399,48,Operations,Consultant,Master,11896.0,0.5,3,2,No,13,No
+EMP0400,38,Marketing,Developer,Master,8561.0,3.9,3,4,Yes,12,No
+EMP0401,50,Marketing,Analyst,Master,9539.0,0.5,3,1,No,8,No
+EMP0402,48,Sales,Analyst,Master,7844.0,4.0,3,3,No,3,No
+EMP0403,52,HR,Developer,Master,12192.0,13.9,3,3,No,25,No
+EMP0404,23,Sales,Manager,Bachelor,10902.0,0.7,1,3,No,5,Yes
+EMP0405,49,Sales,Manager,Master,5464.0,0.7,2,2,No,13,No
+EMP0406,24,IT,Manager,Bachelor,4837.0,3.4,3,3,Yes,27,No
+EMP0407,46,Operations,Analyst,Bachelor,7508.0,1.6,4,2,No,6,No
+EMP0408,35,Sales,Executive,High School,5183.0,0.5,2,3,No,5,No
+EMP0409,35,IT,Analyst,Bachelor,3142.0,0.7,1,4,No,28,Yes
+EMP0410,47,Sales,Developer,PhD,3000.0,7.9,4,1,No,2,Yes
+EMP0411,28,Sales,Developer,High School,13317.0,14.0,4,3,No,23,No
+EMP0412,59,Sales,Developer,Master,7205.0,19.7,2,4,No,20,No
+EMP0413,39,HR,Consultant,Bachelor,5715.0,3.3,1,3,No,6,No
+EMP0414,28,Finance,Executive,Master,10164.0,0.9,2,4,No,3,No
+EMP0415,59,HR,Consultant,Master,7268.0,5.7,4,1,Yes,26,No
+EMP0416,52,Finance,Analyst,Bachelor,10795.0,14.9,1,2,No,14,No
+EMP0417,24,Finance,Manager,High School,9320.0,3.0,1,1,No,21,Yes
+EMP0418,58,Operations,Developer,Master,8558.0,1.3,3,4,Yes,7,No
+EMP0419,32,Operations,Developer,Bachelor,9637.0,6.4,3,3,No,4,No
+EMP0420,47,Finance,Manager,Master,4282.0,0.8,3,1,Yes,1,Yes
+EMP0421,40,IT,Executive,Bachelor,7590.0,0.5,2,4,No,18,No
+EMP0422,54,IT,Developer,High School,10451.0,5.0,4,4,No,13,No
+EMP0423,38,Sales,Consultant,Master,3000.0,0.5,4,4,Yes,6,No
+EMP0424,44,Marketing,Executive,PhD,8082.0,0.7,1,3,Yes,17,No
+EMP0425,53,Finance,Consultant,Bachelor,7344.0,15.0,3,3,Yes,16,No
+EMP0426,26,Marketing,Analyst,Bachelor,7564.0,5.1,4,2,No,4,No
+EMP0427,45,Finance,Executive,Master,9273.0,30.0,1,3,No,25,No
+EMP0428,22,Finance,Manager,Master,5094.0,7.5,4,2,No,19,No
+EMP0429,36,Operations,Manager,High School,10581.0,0.5,4,1,No,3,Yes
+EMP0430,31,Operations,Manager,Bachelor,8980.0,1.2,1,1,No,13,Yes
+EMP0431,48,IT,Manager,Master,7484.0,0.7,2,1,Yes,17,No
+EMP0432,39,Sales,Executive,Bachelor,8013.0,4.2,3,1,Yes,17,No
+EMP0433,27,Operations,Manager,Bachelor,13223.0,12.0,2,4,No,25,No
+EMP0434,23,Finance,Manager,Bachelor,10349.0,8.1,2,1,Yes,19,Yes
+EMP0435,34,Marketing,Executive,Bachelor,6087.0,7.8,1,2,No,1,No
+EMP0436,57,Sales,Developer,Bachelor,11010.0,5.8,4,2,No,29,No
+EMP0437,44,Sales,Developer,Bachelor,7576.0,1.3,3,2,No,15,No
+EMP0438,22,IT,Developer,Master,10323.0,14.8,2,4,Yes,9,No
+EMP0439,29,HR,Consultant,High School,5194.0,0.5,3,4,No,19,No
+EMP0440,22,HR,Consultant,Master,9626.0,1.4,4,3,No,6,No
+EMP0441,48,HR,Executive,Bachelor,7890.0,3.4,4,3,No,27,No
+EMP0442,41,Sales,Executive,Bachelor,3837.0,9.3,2,4,Yes,27,No
+EMP0443,40,HR,Manager,Bachelor,6902.0,9.3,1,1,No,2,No
+EMP0444,29,Operations,Executive,Bachelor,6857.0,0.7,4,4,Yes,7,No
+EMP0445,27,Finance,Consultant,Master,7020.0,7.1,2,1,No,5,No
+EMP0446,51,Marketing,Developer,Bachelor,6294.0,1.7,1,2,No,18,No
+EMP0447,23,IT,Analyst,Bachelor,11569.0,7.2,3,1,No,19,No
+EMP0448,50,HR,Executive,PhD,9759.0,9.1,1,3,Yes,22,No
+EMP0449,28,Sales,Executive,Bachelor,3000.0,2.4,4,1,No,19,No
+EMP0450,43,HR,Executive,PhD,10005.0,6.0,1,4,No,21,No
+EMP0451,45,IT,Analyst,High School,5153.0,12.6,4,1,Yes,21,No
+EMP0452,49,Marketing,Developer,Master,3194.0,3.2,4,1,No,3,No
+EMP0453,25,Finance,Executive,Master,10437.0,6.6,4,4,No,28,No
+EMP0454,58,IT,Consultant,Master,6417.0,0.5,1,4,No,2,Yes
+EMP0455,28,IT,Executive,Bachelor,11587.0,0.5,3,3,No,8,No
+EMP0456,58,Marketing,Executive,Bachelor,6857.0,3.7,3,4,No,2,No
+EMP0457,56,Marketing,Consultant,Bachelor,10871.0,1.7,3,1,Yes,19,No
+EMP0458,49,Operations,Executive,Bachelor,7731.0,1.1,2,2,No,4,No
+EMP0459,30,Finance,Analyst,Master,13658.0,0.8,1,3,No,12,No
+EMP0460,30,Marketing,Developer,Master,4903.0,1.5,1,1,Yes,26,Yes
+EMP0461,32,Marketing,Executive,PhD,7719.0,1.7,3,1,No,17,No
+EMP0462,42,Sales,Consultant,Bachelor,6211.0,6.5,4,1,No,5,No
+EMP0463,26,Finance,Developer,Master,3000.0,0.7,3,2,No,1,No
+EMP0464,45,Finance,Analyst,Master,8609.0,5.0,4,4,No,16,No
+EMP0465,23,Sales,Analyst,Bachelor,6512.0,1.1,3,1,No,5,No
+EMP0466,29,Sales,Analyst,Bachelor,10079.0,4.9,1,2,Yes,20,Yes
+EMP0467,30,IT,Analyst,Master,10360.0,0.5,3,2,Yes,25,Yes
+EMP0468,46,IT,Analyst,PhD,8124.0,2.7,3,4,Yes,3,No
+EMP0469,43,IT,Consultant,Bachelor,10988.0,7.1,4,3,No,9,No
+EMP0470,45,Finance,Developer,Master,10050.0,1.3,4,4,No,11,No
+EMP0471,40,Operations,Consultant,Bachelor,7687.0,12.2,4,3,Yes,25,No
+EMP0472,41,Sales,Manager,Bachelor,4395.0,1.3,2,3,No,5,No
+EMP0473,36,IT,Executive,Bachelor,10513.0,17.4,1,4,Yes,17,No
+EMP0474,59,IT,Manager,PhD,6330.0,1.9,4,1,Yes,8,No
+EMP0475,57,HR,Executive,Bachelor,7824.0,4.9,2,1,No,2,No
+EMP0476,54,Operations,Consultant,Bachelor,4564.0,0.8,1,1,No,1,No
+EMP0477,45,Marketing,Executive,Bachelor,4413.0,7.6,4,1,No,23,No
+EMP0478,45,Finance,Analyst,Master,12524.0,1.0,2,4,No,23,No
+EMP0479,56,HR,Developer,Bachelor,6391.0,0.5,1,4,No,14,No
+EMP0480,54,Sales,Manager,Bachelor,14175.0,2.2,1,4,No,22,No
+EMP0481,57,Marketing,Executive,Master,5374.0,1.7,3,3,Yes,25,No
+EMP0482,39,Finance,Manager,Master,7391.0,12.7,3,4,Yes,23,No
+EMP0483,54,Finance,Executive,Master,9381.0,1.3,2,4,No,18,No
+EMP0484,54,Sales,Executive,Master,15518.0,5.0,2,2,No,9,No
+EMP0485,40,Marketing,Analyst,Bachelor,6686.0,0.5,4,1,Yes,5,Yes
+EMP0486,26,Sales,Consultant,PhD,7600.0,11.3,4,4,No,26,No
+EMP0487,24,Operations,Manager,Master,5808.0,5.0,1,4,No,13,No
+EMP0488,37,HR,Executive,Master,5144.0,3.1,1,4,Yes,13,No
+EMP0489,29,HR,Developer,Master,9719.0,0.5,4,4,Yes,1,No
+EMP0490,55,Finance,Manager,High School,10419.0,20.1,3,4,No,21,No
+EMP0491,27,HR,Developer,Master,9054.0,7.0,3,3,Yes,18,Yes
+EMP0492,58,Operations,Consultant,Master,7727.0,13.0,1,2,No,22,No
+EMP0493,32,Sales,Executive,Bachelor,8562.0,4.3,2,2,No,17,No
+EMP0494,50,Operations,Developer,PhD,9697.0,2.9,3,4,No,23,No
+EMP0495,39,Sales,Developer,Master,7918.0,0.6,2,4,No,27,No
+EMP0496,30,Finance,Developer,Master,4621.0,0.5,3,1,No,3,No
+EMP0497,28,IT,Analyst,Bachelor,8041.0,2.8,2,2,Yes,5,No
+EMP0498,38,HR,Analyst,Bachelor,3884.0,2.9,4,2,No,23,No
+EMP0499,42,Sales,Manager,Master,7736.0,1.3,4,4,Yes,11,No
+EMP0500,25,IT,Consultant,PhD,4122.0,1.9,1,4,Yes,27,No
+EMP0501,34,Sales,Analyst,Bachelor,11820.0,1.5,2,3,No,21,No
+EMP0502,34,IT,Developer,Master,7832.0,1.5,4,4,Yes,18,No
+EMP0503,23,Finance,Manager,Bachelor,5784.0,12.7,3,3,No,29,No
+EMP0504,40,Sales,Analyst,Bachelor,8876.0,7.0,2,1,No,11,No
+EMP0505,45,HR,Developer,Bachelor,4715.0,2.2,4,1,Yes,12,No
+EMP0506,46,HR,Consultant,High School,12206.0,3.3,3,2,No,4,No
+EMP0507,30,IT,Consultant,Bachelor,7993.0,11.7,2,1,Yes,24,Yes
+EMP0508,38,Finance,Manager,Bachelor,10221.0,7.2,3,3,Yes,17,No
+EMP0509,43,Marketing,Executive,Master,7335.0,1.0,3,2,Yes,16,No
+EMP0510,41,IT,Executive,Bachelor,15117.0,2.1,2,1,Yes,25,Yes
+EMP0511,53,Operations,Executive,PhD,12793.0,0.5,1,2,No,7,No
+EMP0512,25,Finance,Analyst,Bachelor,6473.0,1.8,3,1,No,8,No
+EMP0513,56,IT,Analyst,Master,11973.0,12.6,4,3,No,14,No
+EMP0514,47,Operations,Executive,PhD,8243.0,0.5,1,3,No,10,Yes
+EMP0515,36,HR,Executive,Bachelor,10582.0,11.0,4,4,No,17,No
+EMP0516,31,Operations,Manager,High School,15204.0,6.3,3,2,No,24,No
+EMP0517,29,Finance,Analyst,Master,10704.0,0.5,2,1,No,8,Yes
+EMP0518,44,Finance,Executive,PhD,7159.0,3.5,4,1,No,17,No
+EMP0519,55,HR,Developer,Bachelor,10612.0,2.2,3,1,No,16,Yes
+EMP0520,53,IT,Developer,Bachelor,3000.0,4.5,3,4,Yes,22,No
+EMP0521,56,Sales,Consultant,Bachelor,9388.0,8.9,4,2,Yes,10,No
+EMP0522,27,Finance,Executive,Bachelor,6249.0,10.1,2,4,No,16,No
+EMP0523,36,Marketing,Analyst,Master,9142.0,10.6,3,3,Yes,13,No
+EMP0524,34,Finance,Manager,PhD,8132.0,13.5,4,3,No,16,No
+EMP0525,38,Operations,Developer,Bachelor,5356.0,12.4,1,4,Yes,18,No
+EMP0526,50,Marketing,Manager,Bachelor,17270.0,6.4,4,2,Yes,4,No
+EMP0527,42,IT,Manager,Bachelor,5886.0,2.7,1,4,No,10,Yes
+EMP0528,40,Finance,Analyst,Bachelor,6752.0,5.2,3,3,No,20,No
+EMP0529,31,IT,Executive,PhD,4289.0,2.4,2,4,Yes,4,No
+EMP0530,59,Marketing,Manager,PhD,9744.0,1.2,1,2,Yes,10,Yes
+EMP0531,56,HR,Developer,Bachelor,3000.0,2.7,1,4,No,8,No
+EMP0532,28,Marketing,Developer,PhD,7667.0,12.8,4,2,No,13,No
+EMP0533,52,Operations,Consultant,Master,8370.0,1.0,4,4,No,12,No
+EMP0534,25,Marketing,Manager,Bachelor,7567.0,0.5,4,3,Yes,2,No
+EMP0535,29,HR,Manager,Bachelor,9623.0,1.7,1,2,No,25,No
+EMP0536,28,IT,Analyst,PhD,9584.0,8.3,1,4,No,29,No
+EMP0537,35,Sales,Developer,High School,12626.0,6.8,1,2,No,28,No
+EMP0538,32,HR,Analyst,PhD,5437.0,10.6,1,2,No,27,No
+EMP0539,55,IT,Consultant,Bachelor,6786.0,6.5,3,2,No,16,No
+EMP0540,22,Finance,Executive,High School,10211.0,4.9,2,4,No,9,No
+EMP0541,46,Operations,Analyst,High School,5361.0,8.9,1,4,No,11,No
+EMP0542,58,Operations,Developer,Bachelor,8848.0,4.9,1,4,No,20,No
+EMP0543,45,Finance,Developer,Bachelor,7939.0,8.2,3,1,No,2,No
+EMP0544,24,Operations,Developer,Bachelor,9326.0,1.8,3,3,Yes,26,No
+EMP0545,27,Marketing,Analyst,Master,5455.0,9.8,2,2,No,2,No
+EMP0546,39,Operations,Manager,Bachelor,7814.0,0.9,1,4,No,5,No
+EMP0547,23,Finance,Consultant,Bachelor,4680.0,2.1,2,1,No,1,No
+EMP0548,31,Sales,Manager,Master,6554.0,1.4,3,1,No,25,No
+EMP0549,35,Sales,Manager,Master,6554.0,8.6,3,3,Yes,12,No
+EMP0550,35,Finance,Executive,Bachelor,3608.0,1.1,3,4,No,13,No
+EMP0551,55,Sales,Developer,Bachelor,6969.0,0.7,4,4,No,3,No
+EMP0552,29,IT,Consultant,Bachelor,9447.0,2.4,4,4,No,12,No
+EMP0553,48,Operations,Consultant,PhD,4639.0,3.4,2,3,No,29,No
+EMP0554,32,Finance,Executive,Bachelor,9459.0,4.8,4,4,Yes,15,No
+EMP0555,31,IT,Consultant,Bachelor,7544.0,1.0,3,4,No,23,No
+EMP0556,56,Finance,Developer,Master,10783.0,4.5,2,2,No,23,No
+EMP0557,55,IT,Developer,Master,7366.0,2.3,2,3,No,8,No
+EMP0558,44,IT,Executive,Master,6985.0,5.9,3,3,No,28,No
+EMP0559,48,Finance,Analyst,Bachelor,4289.0,16.5,3,1,No,4,No
+EMP0560,30,HR,Analyst,Bachelor,7208.0,0.9,2,3,No,2,No
+EMP0561,25,Sales,Executive,Bachelor,12788.0,7.7,4,1,No,29,No
+EMP0562,50,HR,Consultant,High School,11524.0,0.5,2,3,No,28,No
+EMP0563,24,Operations,Executive,Bachelor,6609.0,0.5,3,4,No,25,No
+EMP0564,45,Sales,Consultant,Bachelor,7332.0,0.8,2,4,No,22,No
+EMP0565,53,Sales,Manager,Bachelor,10498.0,0.8,1,2,No,17,No
+EMP0566,23,IT,Analyst,Bachelor,8108.0,19.7,2,3,Yes,23,No
+EMP0567,58,Finance,Analyst,Bachelor,8764.0,0.7,4,3,No,23,No
+EMP0568,45,Sales,Manager,Master,9294.0,5.7,2,4,No,2,No
+EMP0569,26,Finance,Analyst,High School,3747.0,11.1,1,3,Yes,21,No
+EMP0570,36,Operations,Consultant,Master,3744.0,6.7,4,4,No,22,No
+EMP0571,57,Finance,Manager,Bachelor,3469.0,0.5,2,4,No,21,No
+EMP0572,44,Operations,Manager,Bachelor,5702.0,5.4,1,1,No,18,Yes
+EMP0573,52,Marketing,Analyst,PhD,6421.0,4.8,1,4,No,28,No
+EMP0574,26,Marketing,Developer,Bachelor,4201.0,2.9,1,3,Yes,16,Yes
+EMP0575,45,Operations,Manager,Bachelor,5152.0,9.4,4,4,Yes,3,No
+EMP0576,59,Sales,Manager,Bachelor,8785.0,3.8,1,4,No,15,No
+EMP0577,24,Sales,Executive,Bachelor,9419.0,17.1,2,4,No,18,No
+EMP0578,57,Operations,Manager,Bachelor,8083.0,2.6,2,3,Yes,17,No
+EMP0579,24,Operations,Manager,Bachelor,4597.0,3.7,2,2,Yes,11,No
+EMP0580,22,IT,Consultant,High School,9495.0,0.5,1,2,Yes,1,Yes
+EMP0581,29,Finance,Manager,Master,7779.0,12.2,4,1,Yes,8,No
+EMP0582,51,Sales,Analyst,High School,9533.0,12.5,1,1,Yes,4,No
+EMP0583,30,Operations,Analyst,Bachelor,16185.0,14.0,1,3,No,7,No
+EMP0584,38,IT,Executive,High School,8482.0,4.0,3,2,No,10,No
+EMP0585,29,Marketing,Executive,Bachelor,3957.0,3.2,1,1,No,20,Yes
+EMP0586,54,Finance,Developer,Bachelor,8479.0,10.2,4,1,No,8,No
+EMP0587,42,HR,Manager,Bachelor,9587.0,19.8,4,2,No,17,No
+EMP0588,33,IT,Executive,Master,9307.0,6.9,2,2,No,2,No
+EMP0589,34,Sales,Consultant,Bachelor,4639.0,4.3,3,2,Yes,24,No
+EMP0590,38,Marketing,Manager,High School,5732.0,0.5,3,4,Yes,16,No
+EMP0591,58,HR,Executive,Master,8312.0,28.4,2,1,Yes,13,Yes
+EMP0592,54,Finance,Developer,Bachelor,11779.0,14.3,3,1,No,18,No
+EMP0593,31,IT,Manager,Master,7082.0,9.0,3,4,Yes,14,No
+EMP0594,23,IT,Analyst,Master,5340.0,2.1,1,3,No,14,No
+EMP0595,59,Marketing,Manager,Bachelor,12054.0,7.9,1,3,Yes,4,No
+EMP0596,30,Finance,Analyst,Master,7629.0,5.9,4,2,No,12,No
+EMP0597,52,Marketing,Manager,Master,11026.0,0.5,2,3,Yes,3,No
+EMP0598,27,Marketing,Consultant,Master,4390.0,0.7,1,2,No,12,Yes
+EMP0599,54,IT,Consultant,Master,6347.0,3.7,3,3,No,12,No
+EMP0600,56,Operations,Manager,PhD,10060.0,4.2,2,3,No,29,No
+EMP0601,46,HR,Manager,PhD,12177.0,1.7,2,3,No,16,No
+EMP0602,29,IT,Developer,Bachelor,8112.0,15.7,1,1,No,22,Yes
+EMP0603,41,HR,Manager,Bachelor,6562.0,0.8,2,3,No,4,No
+EMP0604,59,IT,Executive,Bachelor,10710.0,1.9,1,3,No,26,Yes
+EMP0605,41,HR,Manager,Master,8362.0,4.8,3,3,No,25,No
+EMP0606,59,Marketing,Developer,Master,9301.0,0.5,4,1,No,12,No
+EMP0607,46,HR,Consultant,Bachelor,11651.0,0.5,4,3,No,28,No
+EMP0608,54,Finance,Developer,Bachelor,11555.0,30.0,3,2,No,19,No
+EMP0609,37,Sales,Manager,High School,9817.0,3.9,4,4,Yes,18,No
+EMP0610,44,Finance,Consultant,Bachelor,3000.0,5.2,3,3,No,7,No
+EMP0611,55,HR,Manager,Master,4705.0,3.4,1,2,No,15,Yes
+EMP0612,59,Marketing,Consultant,Bachelor,3000.0,4.1,1,1,No,19,No
+EMP0613,24,Operations,Developer,Bachelor,5855.0,0.5,1,1,No,20,No
+EMP0614,31,Operations,Consultant,Master,15563.0,7.8,2,3,No,29,No
+EMP0615,36,Sales,Executive,Bachelor,6724.0,3.8,2,1,No,5,Yes
+EMP0616,59,Marketing,Developer,Bachelor,7272.0,1.6,2,3,Yes,11,No
+EMP0617,46,Finance,Analyst,Bachelor,8157.0,0.5,3,4,No,24,No
+EMP0618,41,IT,Consultant,High School,9226.0,1.0,2,1,Yes,10,No
+EMP0619,41,IT,Executive,Master,3396.0,2.0,4,1,No,26,No
+EMP0620,37,Finance,Consultant,Bachelor,8747.0,22.5,1,4,No,28,No
+EMP0621,57,IT,Manager,Bachelor,7782.0,11.5,3,2,Yes,12,No
+EMP0622,27,Finance,Executive,Master,8465.0,4.2,3,4,No,12,No
+EMP0623,53,HR,Developer,Master,8676.0,6.1,2,4,No,2,No
+EMP0624,47,Finance,Analyst,Bachelor,8119.0,2.3,3,3,No,9,No
+EMP0625,57,Marketing,Manager,Master,7456.0,1.1,4,2,Yes,2,No
+EMP0626,52,Sales,Executive,Master,12792.0,6.9,1,3,Yes,9,Yes
+EMP0627,57,Sales,Consultant,Bachelor,9260.0,1.5,1,4,No,5,No
+EMP0628,24,IT,Manager,Bachelor,8933.0,5.6,4,1,No,3,No
+EMP0629,40,IT,Developer,Bachelor,12031.0,1.6,4,4,Yes,7,No
+EMP0630,26,Finance,Developer,PhD,11657.0,4.9,4,3,Yes,10,No
+EMP0631,33,Operations,Developer,Bachelor,5246.0,7.8,2,4,No,7,No
+EMP0632,54,Operations,Manager,Bachelor,8923.0,2.8,3,1,No,24,No
+EMP0633,34,Marketing,Executive,Master,10975.0,0.5,1,2,Yes,17,No
+EMP0634,48,Finance,Developer,Bachelor,14266.0,2.8,4,3,No,18,No
+EMP0635,32,Operations,Developer,PhD,4288.0,6.3,2,1,No,25,Yes
+EMP0636,37,Marketing,Developer,Master,7031.0,7.1,4,4,No,21,No
+EMP0637,53,Operations,Consultant,Bachelor,6029.0,4.0,1,2,No,12,No
+EMP0638,40,HR,Analyst,High School,14931.0,8.2,2,1,No,19,No
+EMP0639,25,IT,Executive,Bachelor,7814.0,11.4,3,3,No,18,No
+EMP0640,55,Finance,Analyst,Master,8398.0,9.1,1,1,No,17,No
+EMP0641,38,Operations,Executive,Bachelor,3970.0,1.9,1,4,No,10,No
+EMP0642,31,Marketing,Consultant,PhD,14255.0,3.9,2,2,No,28,No
+EMP0643,58,Marketing,Analyst,Bachelor,7374.0,4.4,1,1,Yes,8,Yes
+EMP0644,54,HR,Analyst,Bachelor,10549.0,13.3,3,4,Yes,25,No
+EMP0645,25,Operations,Consultant,Bachelor,4188.0,6.8,2,2,No,15,No
+EMP0646,34,Marketing,Developer,Bachelor,9971.0,6.8,4,3,Yes,28,Yes
+EMP0647,54,Finance,Executive,Bachelor,6474.0,1.1,1,3,Yes,8,No
+EMP0648,51,HR,Consultant,PhD,5791.0,1.4,2,2,No,23,No
+EMP0649,50,Marketing,Manager,Master,7308.0,3.4,2,2,Yes,13,No
+EMP0650,24,Finance,Developer,PhD,9324.0,0.8,1,1,Yes,16,No
+EMP0651,55,Sales,Manager,PhD,12966.0,5.0,1,2,Yes,12,No
+EMP0652,22,Sales,Consultant,PhD,9703.0,5.1,1,4,Yes,5,Yes
+EMP0653,58,Finance,Developer,Master,5082.0,3.7,3,1,Yes,9,No
+EMP0654,59,Finance,Developer,Master,9425.0,4.9,2,3,No,7,No
+EMP0655,24,HR,Developer,PhD,10125.0,0.6,4,1,Yes,24,No
+EMP0656,30,Finance,Manager,Bachelor,8879.0,30.0,3,2,Yes,18,No
+EMP0657,35,Marketing,Developer,Bachelor,6051.0,5.9,4,2,No,27,No
+EMP0658,43,Sales,Developer,Master,4681.0,9.3,3,1,Yes,28,Yes
+EMP0659,23,HR,Developer,Master,4244.0,0.5,2,2,No,17,No
+EMP0660,42,HR,Manager,Bachelor,9102.0,1.0,4,4,No,4,No
+EMP0661,53,IT,Consultant,Master,5872.0,9.0,3,1,Yes,23,No
+EMP0662,55,Sales,Executive,Master,9939.0,6.0,4,1,No,22,No
+EMP0663,36,Marketing,Developer,High School,7533.0,6.6,1,1,Yes,22,Yes
+EMP0664,34,Finance,Consultant,Bachelor,9638.0,0.5,4,3,No,1,Yes
+EMP0665,46,Sales,Executive,Bachelor,6098.0,1.9,2,2,No,19,No
+EMP0666,43,Operations,Analyst,PhD,10120.0,5.9,4,3,No,12,No
+EMP0667,39,IT,Executive,PhD,7458.0,2.3,1,2,Yes,10,No
+EMP0668,31,IT,Developer,Bachelor,3000.0,12.8,3,4,Yes,4,Yes
+EMP0669,50,Operations,Executive,Master,7151.0,3.1,4,2,No,6,No
+EMP0670,56,Finance,Analyst,Bachelor,10420.0,0.5,1,1,No,4,No
+EMP0671,34,Sales,Consultant,Bachelor,3000.0,1.7,3,4,Yes,22,Yes
+EMP0672,31,IT,Developer,PhD,11236.0,2.6,2,4,Yes,21,No
+EMP0673,57,HR,Manager,High School,8309.0,1.0,4,3,No,21,No
+EMP0674,43,Finance,Consultant,Master,12980.0,2.7,1,1,No,11,No
+EMP0675,29,Operations,Developer,Master,7655.0,9.7,2,3,No,27,No
+EMP0676,31,Marketing,Developer,High School,3000.0,5.3,1,2,No,22,No
+EMP0677,51,HR,Analyst,High School,8098.0,4.1,2,2,Yes,25,No
+EMP0678,34,Marketing,Executive,Bachelor,7788.0,2.9,4,4,No,21,No
+EMP0679,27,HR,Analyst,Bachelor,7734.0,11.0,3,3,No,8,No
+EMP0680,30,Sales,Executive,Master,4223.0,3.3,2,3,Yes,28,No
+EMP0681,59,Marketing,Analyst,Bachelor,9603.0,4.6,1,2,No,22,Yes
+EMP0682,59,HR,Manager,Bachelor,8845.0,1.5,4,1,No,2,No
+EMP0683,31,IT,Executive,Master,6241.0,1.4,4,1,No,6,No
+EMP0684,58,Operations,Executive,Bachelor,7465.0,0.5,3,4,No,14,No
+EMP0685,28,HR,Consultant,Master,4583.0,11.8,3,2,Yes,1,No
+EMP0686,43,Operations,Developer,High School,8688.0,1.4,3,2,Yes,7,No
+EMP0687,23,HR,Executive,Bachelor,9179.0,17.8,1,1,No,19,Yes
+EMP0688,28,Marketing,Analyst,Master,10573.0,1.5,1,4,Yes,14,Yes
+EMP0689,24,HR,Manager,Bachelor,6138.0,7.5,3,3,No,16,No
+EMP0690,55,Finance,Executive,PhD,8965.0,5.3,3,2,Yes,26,No
+EMP0691,58,IT,Consultant,Bachelor,11688.0,3.8,1,4,No,27,No
+EMP0692,51,Marketing,Analyst,Master,10875.0,1.0,1,2,No,22,No
+EMP0693,46,IT,Consultant,Bachelor,9819.0,8.7,2,3,No,15,No
+EMP0694,40,IT,Manager,Bachelor,11635.0,15.6,4,1,No,17,No
+EMP0695,58,Sales,Analyst,Bachelor,9397.0,0.9,1,4,Yes,12,No
+EMP0696,24,Sales,Analyst,Master,8200.0,1.1,1,3,Yes,24,No
+EMP0697,31,Marketing,Analyst,Master,8654.0,2.8,1,1,No,11,No
+EMP0698,57,Finance,Manager,High School,5473.0,0.5,1,3,No,11,No
+EMP0699,39,Marketing,Developer,Bachelor,7418.0,0.5,1,1,No,7,Yes
+EMP0700,58,Finance,Analyst,PhD,7401.0,0.5,1,1,No,8,Yes
+EMP0701,50,Finance,Manager,High School,11730.0,0.8,1,4,No,3,No
+EMP0702,41,Finance,Manager,High School,10088.0,0.5,3,3,No,7,Yes
+EMP0703,24,Finance,Manager,Bachelor,6066.0,1.1,1,3,No,14,Yes
+EMP0704,22,Finance,Executive,Bachelor,13210.0,5.2,4,3,Yes,26,No
+EMP0705,53,Sales,Manager,High School,8018.0,4.4,3,1,No,28,No
+EMP0706,25,Finance,Executive,Bachelor,10822.0,2.4,4,1,No,4,No
+EMP0707,32,Sales,Executive,Bachelor,12462.0,7.5,4,3,Yes,2,No
+EMP0708,57,Operations,Analyst,Bachelor,11049.0,1.0,3,2,No,14,No
+EMP0709,29,HR,Executive,Bachelor,6524.0,3.3,4,4,No,24,No
+EMP0710,30,HR,Executive,PhD,9762.0,1.3,2,3,No,22,No
+EMP0711,50,Sales,Executive,PhD,6811.0,5.9,4,4,Yes,7,No
+EMP0712,59,Sales,Manager,Master,6418.0,6.0,1,1,No,6,Yes
+EMP0713,45,IT,Executive,Bachelor,7998.0,14.1,1,2,No,20,No
+EMP0714,28,IT,Consultant,Master,5477.0,0.9,4,2,No,26,No
+EMP0715,32,Marketing,Developer,Bachelor,11092.0,0.6,3,3,No,21,No
+EMP0716,27,Marketing,Analyst,PhD,9181.0,14.8,3,2,No,21,No
+EMP0717,43,IT,Executive,Master,7183.0,0.6,1,4,No,5,No
+EMP0718,51,Finance,Consultant,Bachelor,6731.0,12.9,1,2,No,11,No
+EMP0719,38,HR,Manager,Bachelor,5460.0,7.7,1,4,Yes,27,No
+EMP0720,34,Marketing,Developer,PhD,12002.0,1.0,4,4,No,23,No
+EMP0721,48,Finance,Consultant,Master,3898.0,8.9,1,4,Yes,16,Yes
+EMP0722,58,Finance,Developer,Master,5855.0,0.5,1,3,Yes,10,No
+EMP0723,41,Sales,Analyst,PhD,4696.0,4.1,3,2,No,16,No
+EMP0724,41,HR,Consultant,Bachelor,6239.0,2.7,3,2,No,8,No
+EMP0725,26,Sales,Analyst,Master,4063.0,2.2,4,3,No,10,Yes
+EMP0726,58,IT,Consultant,Bachelor,11616.0,7.6,2,4,No,13,No
+EMP0727,31,HR,Analyst,Bachelor,12664.0,2.9,4,4,No,18,No
+EMP0728,35,IT,Consultant,Master,10170.0,8.6,3,2,Yes,9,No
+EMP0729,43,Sales,Consultant,Bachelor,3023.0,0.5,1,3,No,26,No
+EMP0730,39,Operations,Manager,Master,7500.0,3.8,2,4,No,1,No
+EMP0731,52,Operations,Consultant,Master,6398.0,5.1,2,3,Yes,29,No
+EMP0732,25,Marketing,Analyst,Master,8431.0,2.0,4,1,No,29,No
+EMP0733,33,IT,Analyst,PhD,11643.0,9.6,2,1,Yes,27,Yes
+EMP0734,46,Operations,Consultant,Master,11885.0,5.7,3,1,No,20,No
+EMP0735,49,Finance,Manager,Bachelor,9435.0,1.0,3,3,Yes,13,No
+EMP0736,26,Marketing,Developer,Bachelor,4023.0,2.0,4,3,Yes,23,Yes
+EMP0737,59,Operations,Consultant,Bachelor,8341.0,0.7,4,3,No,26,No
+EMP0738,26,IT,Executive,Master,6895.0,4.3,2,3,Yes,16,No
+EMP0739,44,Marketing,Executive,Master,6378.0,9.9,4,2,No,23,No
+EMP0740,52,Sales,Consultant,PhD,10232.0,23.7,2,2,No,14,No
+EMP0741,53,Marketing,Manager,Master,6282.0,4.0,2,2,Yes,5,No
+EMP0742,36,IT,Executive,Master,7838.0,0.5,2,3,Yes,14,Yes
+EMP0743,29,Marketing,Manager,Master,5505.0,8.4,3,3,No,14,No
+EMP0744,23,Sales,Developer,Master,13396.0,3.5,3,1,Yes,7,No
+EMP0745,36,Finance,Developer,Master,5069.0,0.8,1,4,No,13,No
+EMP0746,25,Marketing,Consultant,Master,3025.0,0.6,2,1,Yes,3,No
+EMP0747,29,IT,Manager,Master,8000.0,7.2,2,1,No,28,No
+EMP0748,59,Sales,Developer,High School,10140.0,0.5,1,2,Yes,14,No
+EMP0749,25,HR,Executive,Bachelor,5928.0,1.8,4,2,No,6,No
+EMP0750,23,Sales,Developer,Master,7492.0,9.2,1,1,No,22,Yes
+EMP0751,42,Marketing,Analyst,Bachelor,11373.0,4.9,4,3,No,21,No
+EMP0752,32,HR,Executive,PhD,5031.0,3.8,3,4,No,5,No
+EMP0753,57,Sales,Executive,Bachelor,5224.0,12.4,4,1,No,3,No
+EMP0754,41,Sales,Manager,Bachelor,6482.0,3.4,1,4,No,5,No
+EMP0755,24,Finance,Consultant,Master,9597.0,3.0,3,1,No,5,No
+EMP0756,41,Operations,Consultant,Master,7252.0,14.7,4,2,Yes,13,No
+EMP0757,53,IT,Developer,Master,10387.0,0.5,2,3,No,3,No
+EMP0758,27,Sales,Developer,Master,8689.0,4.5,4,4,No,9,No
+EMP0759,31,Operations,Consultant,Master,5205.0,7.4,3,2,No,9,No
+EMP0760,57,Sales,Manager,High School,8357.0,4.1,3,3,Yes,26,No
+EMP0761,53,Operations,Developer,Master,6712.0,1.0,1,3,No,6,Yes
+EMP0762,23,Operations,Analyst,High School,5726.0,2.3,1,3,Yes,1,Yes
+EMP0763,51,Marketing,Analyst,Master,12524.0,5.9,4,3,Yes,2,No
+EMP0764,36,Operations,Analyst,Master,13730.0,7.4,4,2,No,29,No
+EMP0765,51,Operations,Executive,Bachelor,6609.0,2.1,1,2,Yes,22,No
+EMP0766,36,Operations,Consultant,Bachelor,10265.0,0.9,2,1,Yes,22,No
+EMP0767,54,Operations,Manager,PhD,8008.0,0.7,1,3,No,27,No
+EMP0768,30,Operations,Developer,Bachelor,7038.0,5.5,3,4,Yes,20,No
+EMP0769,46,IT,Executive,Master,9903.0,7.4,4,2,Yes,21,No
+EMP0770,26,HR,Developer,Bachelor,4961.0,27.9,4,2,Yes,25,No
+EMP0771,42,IT,Manager,Bachelor,11197.0,6.4,3,3,No,17,No
+EMP0772,31,Operations,Consultant,Master,10937.0,7.1,3,3,No,11,No
+EMP0773,33,HR,Manager,Bachelor,6188.0,0.5,3,4,Yes,22,No
+EMP0774,35,IT,Manager,PhD,12338.0,3.4,3,3,Yes,24,No
+EMP0775,52,HR,Analyst,Master,4227.0,5.7,1,3,No,15,Yes
+EMP0776,37,HR,Manager,Bachelor,8796.0,0.5,3,3,Yes,10,No
+EMP0777,48,Sales,Manager,High School,10930.0,1.8,3,4,No,16,No
+EMP0778,49,Marketing,Consultant,Master,13625.0,3.4,2,3,No,23,No
+EMP0779,28,Sales,Developer,Master,13962.0,6.0,3,3,Yes,17,No
+EMP0780,36,Operations,Executive,High School,7244.0,0.5,1,3,No,28,No
+EMP0781,29,IT,Analyst,Bachelor,6109.0,0.5,1,4,No,29,Yes
+EMP0782,34,IT,Manager,Bachelor,9374.0,1.5,1,2,No,1,No
+EMP0783,41,Operations,Executive,Bachelor,8401.0,1.6,2,3,No,14,Yes
+EMP0784,44,Sales,Analyst,High School,5225.0,0.5,3,2,Yes,23,No
+EMP0785,45,Marketing,Executive,Bachelor,6366.0,0.6,1,4,No,12,Yes
+EMP0786,59,Operations,Developer,High School,9886.0,1.4,4,4,No,17,No
+EMP0787,45,Finance,Manager,Bachelor,11491.0,17.9,1,2,No,3,No
+EMP0788,28,HR,Consultant,Bachelor,10180.0,26.2,1,2,No,4,No
+EMP0789,51,Marketing,Executive,Bachelor,13025.0,5.1,4,4,No,10,No
+EMP0790,29,IT,Manager,Bachelor,13868.0,14.4,2,1,No,13,Yes
+EMP0791,49,Finance,Consultant,PhD,4065.0,18.2,3,2,No,11,No
+EMP0792,59,Operations,Developer,Bachelor,5852.0,10.4,2,3,Yes,12,No
+EMP0793,34,Sales,Manager,Bachelor,10404.0,16.8,2,2,No,3,No
+EMP0794,58,Operations,Consultant,PhD,6230.0,2.4,3,2,No,29,No
+EMP0795,47,Operations,Developer,Bachelor,3000.0,2.1,2,4,No,4,No
+EMP0796,50,Finance,Consultant,High School,12840.0,0.5,4,2,No,1,No
+EMP0797,53,Finance,Analyst,Bachelor,3011.0,1.4,3,2,No,14,No
+EMP0798,37,Operations,Executive,PhD,5962.0,4.5,3,3,Yes,27,No
+EMP0799,23,IT,Executive,Bachelor,3227.0,1.3,4,3,Yes,18,No
+EMP0800,47,IT,Analyst,Master,13655.0,5.4,2,1,Yes,24,Yes
+EMP0801,53,Operations,Analyst,PhD,10048.0,3.1,2,1,Yes,5,No
+EMP0802,36,HR,Developer,High School,10669.0,2.5,1,3,No,6,Yes
+EMP0803,27,HR,Manager,Bachelor,3828.0,0.9,4,4,No,10,Yes
+EMP0804,36,Marketing,Manager,Bachelor,12783.0,4.9,2,2,Yes,22,No
+EMP0805,58,IT,Manager,Master,8884.0,9.6,3,4,No,29,No
+EMP0806,53,Operations,Developer,Bachelor,6270.0,1.9,3,3,No,17,Yes
+EMP0807,48,Finance,Manager,Bachelor,8577.0,7.5,4,3,Yes,14,No
+EMP0808,41,Finance,Developer,Bachelor,8591.0,12.7,3,4,No,7,No
+EMP0809,32,HR,Executive,Master,4729.0,14.7,1,3,No,11,No
+EMP0810,54,IT,Manager,Master,4735.0,1.3,1,3,Yes,10,Yes
+EMP0811,52,HR,Executive,Bachelor,9552.0,5.6,1,1,No,29,No
+EMP0812,40,IT,Analyst,Bachelor,8462.0,2.1,4,1,No,5,No
+EMP0813,59,Finance,Analyst,Master,13370.0,6.1,1,4,Yes,24,No
+EMP0814,47,HR,Manager,Master,9835.0,16.3,4,2,Yes,24,No
+EMP0815,51,IT,Executive,Master,9081.0,0.7,1,1,Yes,13,No
+EMP0816,28,Finance,Consultant,Bachelor,6356.0,3.8,1,4,Yes,3,Yes
+EMP0817,42,HR,Analyst,Bachelor,3624.0,1.7,1,1,Yes,29,Yes
+EMP0818,56,IT,Consultant,High School,13346.0,0.9,2,4,Yes,10,No
+EMP0819,45,Sales,Analyst,Master,10099.0,3.6,2,2,Yes,24,No
+EMP0820,52,HR,Developer,Master,5111.0,0.5,2,3,Yes,9,No
+EMP0821,45,Finance,Developer,Master,3483.0,9.7,1,3,No,17,No
+EMP0822,54,HR,Analyst,Bachelor,7212.0,0.5,3,4,No,2,No
+EMP0823,34,Sales,Executive,Bachelor,8090.0,0.6,2,2,No,6,No
+EMP0824,37,Marketing,Consultant,Bachelor,11047.0,1.2,2,1,No,19,No
+EMP0825,53,Sales,Consultant,Bachelor,9428.0,2.8,3,3,No,13,No
+EMP0826,48,Sales,Executive,Bachelor,7556.0,10.6,3,2,No,27,No
+EMP0827,29,Sales,Developer,Bachelor,10925.0,11.6,4,3,No,16,No
+EMP0828,38,IT,Executive,Master,14532.0,4.9,2,3,Yes,22,No
+EMP0829,45,Sales,Manager,Master,7635.0,7.4,2,4,Yes,6,No
+EMP0830,42,HR,Manager,Master,8688.0,8.7,2,3,No,19,No
+EMP0831,31,Finance,Analyst,High School,7239.0,4.2,2,1,Yes,14,No
+EMP0832,40,Finance,Manager,Bachelor,7441.0,1.2,3,2,No,17,No
+EMP0833,46,HR,Executive,Master,7577.0,1.8,2,1,Yes,14,No
+EMP0834,49,Finance,Analyst,Bachelor,10888.0,2.7,3,3,No,18,No
+EMP0835,48,Operations,Analyst,Bachelor,12641.0,1.4,3,3,No,29,No
+EMP0836,46,Finance,Developer,Master,5981.0,0.5,1,4,Yes,19,No
+EMP0837,55,IT,Consultant,Bachelor,5864.0,8.6,4,2,No,16,No
+EMP0838,30,Sales,Manager,Master,9369.0,2.0,4,3,No,13,No
+EMP0839,33,Operations,Executive,Bachelor,5342.0,3.3,4,4,No,8,No
+EMP0840,48,Operations,Executive,PhD,3000.0,2.0,2,2,Yes,8,No
+EMP0841,26,HR,Developer,Master,5860.0,5.8,3,2,No,28,No
+EMP0842,57,Marketing,Consultant,PhD,3721.0,3.3,3,3,No,13,No
+EMP0843,43,HR,Executive,Bachelor,10088.0,0.9,2,1,No,6,Yes
+EMP0844,35,IT,Developer,Master,5922.0,9.4,1,3,No,23,No
+EMP0845,49,Finance,Consultant,Bachelor,11061.0,3.0,1,2,No,29,No
+EMP0846,34,Finance,Consultant,Bachelor,9534.0,0.5,4,2,Yes,2,Yes
+EMP0847,56,Operations,Developer,Master,8366.0,1.5,2,1,No,2,No
+EMP0848,49,Finance,Executive,Bachelor,6564.0,0.6,3,2,No,2,No
+EMP0849,28,HR,Executive,Bachelor,3865.0,0.5,3,3,Yes,21,No
+EMP0850,42,Operations,Consultant,Bachelor,4122.0,7.2,3,1,No,22,No
+EMP0851,42,Sales,Executive,Master,8141.0,5.0,3,1,No,25,No
+EMP0852,36,Finance,Manager,Bachelor,7559.0,1.5,1,2,No,7,No
+EMP0853,31,Sales,Executive,Master,6186.0,0.5,4,1,No,23,No
+EMP0854,56,Marketing,Executive,Bachelor,7540.0,6.7,4,3,Yes,11,No
+EMP0855,30,Operations,Consultant,Bachelor,6848.0,1.7,2,4,No,8,No
+EMP0856,35,Finance,Developer,Bachelor,11873.0,6.1,4,4,No,4,No
+EMP0857,43,Marketing,Developer,Bachelor,8897.0,13.6,2,4,Yes,25,No
+EMP0858,30,HR,Consultant,Bachelor,4265.0,1.7,1,3,No,3,No
+EMP0859,35,HR,Consultant,Master,5937.0,4.0,4,4,No,13,No
+EMP0860,47,Finance,Executive,PhD,3609.0,1.1,2,4,No,17,No
+EMP0861,45,Operations,Executive,PhD,10659.0,4.2,3,2,No,29,No
+EMP0862,29,IT,Consultant,Bachelor,3000.0,8.9,1,2,Yes,1,No
+EMP0863,58,IT,Analyst,Master,7000.0,7.2,3,3,No,1,No
+EMP0864,54,Operations,Consultant,Bachelor,3916.0,14.9,2,2,Yes,16,Yes
+EMP0865,29,Sales,Manager,Master,6944.0,4.0,4,3,No,16,No
+EMP0866,39,Marketing,Developer,Bachelor,6916.0,5.4,4,4,No,28,No
+EMP0867,58,Sales,Developer,PhD,9416.0,4.1,4,3,No,2,No
+EMP0868,34,Operations,Manager,Bachelor,14304.0,0.6,4,4,Yes,12,No
+EMP0869,52,Marketing,Analyst,Bachelor,7076.0,2.9,3,2,No,3,No
+EMP0870,34,Marketing,Developer,PhD,13083.0,0.6,3,2,No,4,No
+EMP0871,24,Marketing,Consultant,Bachelor,8236.0,2.3,2,4,Yes,27,No
+EMP0872,38,Operations,Analyst,PhD,3000.0,5.9,2,4,No,6,No
+EMP0873,48,Sales,Analyst,Bachelor,7653.0,2.6,1,2,No,12,No
+EMP0874,27,Operations,Manager,Master,4679.0,13.3,1,4,No,10,No
+EMP0875,34,Finance,Consultant,High School,12096.0,2.8,2,2,No,25,No
+EMP0876,54,HR,Manager,PhD,15078.0,0.5,1,4,No,9,No
+EMP0877,24,Finance,Manager,Bachelor,10141.0,6.1,4,2,No,5,No
+EMP0878,51,Marketing,Manager,Bachelor,11550.0,1.5,1,2,Yes,3,No
+EMP0879,22,Operations,Executive,Master,7546.0,1.4,1,3,No,27,Yes
+EMP0880,37,Finance,Developer,Bachelor,4246.0,1.9,1,4,No,22,No
+EMP0881,26,IT,Manager,Master,12284.0,0.6,3,2,Yes,8,No
+EMP0882,46,Sales,Consultant,Bachelor,11193.0,5.7,1,1,No,19,No
+EMP0883,34,Marketing,Consultant,PhD,3000.0,9.9,1,4,Yes,10,Yes
+EMP0884,47,HR,Consultant,High School,6184.0,2.9,3,3,No,24,No
+EMP0885,37,Finance,Developer,Bachelor,3000.0,0.5,2,2,No,14,No
+EMP0886,57,Finance,Executive,Bachelor,12331.0,9.9,2,2,Yes,29,Yes
+EMP0887,49,Operations,Executive,Bachelor,3603.0,1.3,2,4,No,15,No
+EMP0888,30,HR,Manager,Master,12086.0,2.9,3,2,No,11,No
+EMP0889,24,Operations,Developer,Bachelor,9997.0,1.4,1,1,Yes,7,Yes
+EMP0890,27,Sales,Consultant,Bachelor,5045.0,0.5,1,3,No,6,Yes
+EMP0891,46,Marketing,Consultant,Bachelor,6499.0,3.8,2,4,Yes,19,Yes
+EMP0892,42,Marketing,Executive,Master,6676.0,0.5,2,2,Yes,11,Yes
+EMP0893,53,Finance,Executive,Bachelor,8290.0,0.5,1,4,Yes,14,Yes
+EMP0894,49,Sales,Developer,High School,11044.0,10.1,1,1,No,21,Yes
+EMP0895,38,HR,Consultant,Bachelor,10044.0,0.5,1,2,No,3,No
+EMP0896,49,Operations,Analyst,Bachelor,10657.0,4.1,2,2,No,26,No
+EMP0897,50,Marketing,Consultant,Bachelor,3937.0,0.5,1,2,No,14,Yes
+EMP0898,41,HR,Manager,Master,10463.0,6.2,1,1,No,24,No
+EMP0899,55,Finance,Developer,Bachelor,11098.0,0.5,4,3,Yes,2,No
+EMP0900,22,Operations,Analyst,PhD,8257.0,1.4,2,2,Yes,24,Yes
+EMP0901,47,Marketing,Executive,Bachelor,5849.0,7.4,2,1,Yes,24,No
+EMP0902,36,Marketing,Analyst,Bachelor,13369.0,3.1,1,1,Yes,24,Yes
+EMP0903,36,Operations,Executive,Bachelor,11547.0,0.5,4,3,No,4,No
+EMP0904,24,Finance,Manager,Master,7861.0,1.6,3,1,Yes,14,No
+EMP0905,48,Sales,Consultant,Bachelor,9893.0,1.8,4,2,No,18,No
+EMP0906,42,IT,Manager,Master,11238.0,2.7,1,1,Yes,3,No
+EMP0907,52,Marketing,Manager,High School,8611.0,3.1,4,1,Yes,16,No
+EMP0908,29,IT,Consultant,Bachelor,9844.0,1.4,3,3,Yes,5,Yes
+EMP0909,22,IT,Developer,Bachelor,4696.0,9.1,3,1,No,26,No
+EMP0910,27,IT,Consultant,Bachelor,8780.0,1.1,1,4,Yes,15,Yes
+EMP0911,35,Marketing,Consultant,Master,10665.0,0.5,4,3,Yes,18,No
+EMP0912,23,Sales,Executive,High School,3000.0,4.8,3,3,No,17,No
+EMP0913,41,Marketing,Developer,Bachelor,7119.0,5.0,2,1,No,22,No
+EMP0914,30,HR,Analyst,Bachelor,8260.0,0.5,2,3,No,5,No
+EMP0915,56,Marketing,Analyst,PhD,6598.0,11.8,3,3,No,15,No
+EMP0916,26,Marketing,Consultant,High School,10957.0,5.5,3,3,No,8,No
+EMP0917,43,Marketing,Consultant,PhD,6184.0,3.4,4,2,Yes,15,Yes
+EMP0918,40,Sales,Manager,High School,9047.0,2.3,3,3,Yes,20,No
+EMP0919,25,Operations,Manager,Bachelor,11147.0,4.2,2,2,No,6,No
+EMP0920,58,Marketing,Developer,Bachelor,8411.0,0.6,1,3,No,16,No
+EMP0921,23,HR,Analyst,Bachelor,9348.0,6.7,3,3,Yes,29,Yes
+EMP0922,27,HR,Analyst,Bachelor,3000.0,10.5,2,3,No,7,No
+EMP0923,46,Marketing,Analyst,Master,3000.0,0.5,1,2,Yes,26,No
+EMP0924,37,Sales,Developer,Bachelor,6380.0,4.6,2,2,No,16,No
+EMP0925,54,Marketing,Developer,High School,11529.0,11.3,3,2,No,28,No
+EMP0926,48,Operations,Executive,Master,7943.0,7.9,2,3,No,15,No
+EMP0927,38,Finance,Consultant,Bachelor,11085.0,20.0,2,2,No,25,No
+EMP0928,58,HR,Manager,PhD,5639.0,10.4,2,3,No,12,No
+EMP0929,27,HR,Manager,Master,11553.0,1.2,3,4,No,5,No
+EMP0930,40,Finance,Manager,Bachelor,6343.0,1.8,4,4,No,15,No
+EMP0931,22,IT,Analyst,Master,7836.0,11.6,1,2,No,11,No
+EMP0932,43,IT,Analyst,Bachelor,7890.0,3.3,4,4,No,9,No
+EMP0933,40,IT,Manager,Bachelor,4796.0,2.6,1,3,No,28,No
+EMP0934,56,Marketing,Manager,PhD,6164.0,6.2,3,3,Yes,19,No
+EMP0935,37,Sales,Developer,Master,12743.0,1.9,2,4,Yes,27,No
+EMP0936,58,Finance,Developer,Master,9057.0,2.9,2,1,Yes,24,No
+EMP0937,53,HR,Consultant,High School,3000.0,2.9,2,3,No,16,No
+EMP0938,51,IT,Consultant,High School,11450.0,0.9,4,1,No,12,No
+EMP0939,32,IT,Analyst,Bachelor,5706.0,0.5,1,3,No,2,No
+EMP0940,40,Operations,Analyst,PhD,6733.0,5.7,3,3,No,8,No
+EMP0941,38,Marketing,Consultant,High School,4489.0,0.5,2,3,Yes,27,Yes
+EMP0942,22,Sales,Developer,Bachelor,9232.0,1.3,3,4,No,14,No
+EMP0943,52,Sales,Manager,Bachelor,10100.0,8.1,2,2,No,7,No
+EMP0944,45,Finance,Manager,Master,6374.0,3.9,1,3,No,26,No
+EMP0945,24,Marketing,Analyst,High School,6912.0,2.3,1,1,No,9,No
+EMP0946,43,Finance,Developer,Bachelor,8372.0,2.1,3,3,No,12,No
+EMP0947,59,Marketing,Analyst,Bachelor,5534.0,0.5,2,4,Yes,8,No
+EMP0948,58,HR,Analyst,High School,15321.0,0.5,4,1,No,25,No
+EMP0949,23,Sales,Analyst,Bachelor,3735.0,1.1,1,1,No,12,Yes
+EMP0950,29,Operations,Executive,High School,11120.0,3.3,1,4,No,29,Yes
+EMP0951,46,Operations,Executive,Master,14165.0,9.5,4,1,Yes,2,No
+EMP0952,42,Marketing,Consultant,Master,5559.0,4.8,4,4,No,14,No
+EMP0953,35,Operations,Consultant,Master,3482.0,2.0,4,3,No,23,No
+EMP0954,42,Operations,Developer,Master,6233.0,3.3,1,4,No,3,No
+EMP0955,24,Finance,Developer,Bachelor,5005.0,1.7,3,2,No,11,No
+EMP0956,45,Sales,Analyst,Master,3461.0,0.5,3,3,No,1,No
+EMP0957,36,Finance,Manager,Bachelor,5005.0,0.5,2,4,No,5,No
+EMP0958,59,Finance,Consultant,Bachelor,8842.0,0.5,4,3,No,1,No
+EMP0959,35,Marketing,Manager,Bachelor,9825.0,0.5,3,3,No,29,Yes
+EMP0960,52,Finance,Consultant,Master,6241.0,6.2,2,3,Yes,15,No
+EMP0961,46,Finance,Executive,PhD,12700.0,4.5,4,3,No,6,No
+EMP0962,40,Sales,Manager,Bachelor,6503.0,0.5,3,1,Yes,23,Yes
+EMP0963,58,Operations,Executive,Master,8261.0,4.7,3,1,No,16,Yes
+EMP0964,44,Operations,Analyst,Bachelor,6237.0,0.5,4,3,Yes,24,Yes
+EMP0965,42,Sales,Consultant,Bachelor,10644.0,4.1,4,1,Yes,29,No
+EMP0966,49,Sales,Analyst,Bachelor,8397.0,1.5,1,3,No,26,No
+EMP0967,59,HR,Manager,High School,4974.0,9.9,2,3,No,12,No
+EMP0968,26,HR,Analyst,Bachelor,10899.0,1.4,1,3,No,26,Yes
+EMP0969,49,Operations,Manager,Master,6857.0,7.8,3,2,No,18,No
+EMP0970,44,Sales,Developer,PhD,5271.0,12.4,2,2,Yes,28,No
+EMP0971,56,Finance,Analyst,Master,12441.0,3.1,2,1,No,5,Yes
+EMP0972,40,Marketing,Manager,Bachelor,12607.0,6.3,4,4,No,8,No
+EMP0973,58,Finance,Manager,High School,10010.0,7.1,1,4,Yes,25,Yes
+EMP0974,46,Sales,Developer,Bachelor,12161.0,2.3,3,1,No,21,No
+EMP0975,38,Operations,Manager,Bachelor,5988.0,5.9,4,2,No,1,No
+EMP0976,28,Finance,Consultant,Master,5027.0,9.8,4,1,Yes,6,No
+EMP0977,25,HR,Consultant,Master,6189.0,4.0,1,2,Yes,1,Yes
+EMP0978,24,Finance,Manager,Master,13600.0,0.5,4,1,Yes,27,No
+EMP0979,23,IT,Consultant,Bachelor,15894.0,5.1,3,2,No,14,No
+EMP0980,31,HR,Consultant,Bachelor,13941.0,19.4,1,2,Yes,22,No
+EMP0981,56,Sales,Executive,PhD,6675.0,2.2,1,2,Yes,5,No
+EMP0982,31,Finance,Manager,High School,6465.0,1.0,4,2,No,12,Yes
+EMP0983,33,Sales,Manager,Master,7676.0,1.6,4,3,Yes,5,No
+EMP0984,41,IT,Developer,High School,6243.0,8.9,2,4,Yes,9,No
+EMP0985,31,Operations,Analyst,Master,10123.0,1.0,3,4,Yes,19,Yes
+EMP0986,38,Marketing,Executive,Bachelor,6796.0,0.5,1,2,Yes,14,Yes
+EMP0987,25,Sales,Developer,Master,7748.0,1.2,2,1,No,19,No
+EMP0988,50,Finance,Analyst,Bachelor,9224.0,1.7,4,3,No,4,No
+EMP0989,54,Marketing,Developer,Master,10856.0,1.1,4,3,No,12,No
+EMP0990,38,Sales,Analyst,Bachelor,3577.0,0.5,3,2,Yes,28,No
+EMP0991,25,HR,Executive,Master,9616.0,4.8,1,3,No,15,No
+EMP0992,25,Marketing,Analyst,Bachelor,5074.0,2.0,3,1,No,15,No
+EMP0993,47,Finance,Executive,Master,7526.0,2.5,1,4,Yes,1,No
+EMP0994,22,Marketing,Consultant,Bachelor,6873.0,5.2,4,3,No,13,No
+EMP0995,30,Sales,Executive,Bachelor,10653.0,3.7,1,4,No,26,Yes
+EMP0996,30,Sales,Consultant,PhD,6702.0,3.9,4,3,Yes,11,No
+EMP0997,41,HR,Developer,Bachelor,9772.0,1.6,2,2,No,10,No
+EMP0998,49,Marketing,Consultant,Bachelor,5401.0,4.0,2,1,Yes,5,No
+EMP0999,59,IT,Manager,Bachelor,4763.0,1.9,2,3,Yes,9,No
+EMP1000,59,Sales,Executive,Master,8315.0,4.9,3,3,Yes,4,No
+EMP1001,56,Sales,Consultant,Master,8341.0,16.2,1,1,Yes,9,Yes
+EMP1002,35,Sales,Analyst,Bachelor,9746.0,7.5,2,2,No,20,No
+EMP1003,51,Marketing,Analyst,Master,12866.0,3.6,3,3,No,27,No
+EMP1004,26,Operations,Developer,High School,8140.0,1.1,1,3,No,11,Yes
+EMP1005,41,HR,Manager,Master,7269.0,0.5,1,4,No,17,No
+EMP1006,55,Marketing,Analyst,PhD,9306.0,24.1,3,4,Yes,4,No
+EMP1007,50,Operations,Manager,PhD,12681.0,6.7,3,3,Yes,25,No
+EMP1008,37,Finance,Manager,Bachelor,4945.0,6.8,1,1,No,27,No
+EMP1009,33,Operations,Executive,High School,3447.0,5.4,3,1,No,27,No
+EMP1010,51,Marketing,Developer,Bachelor,7464.0,0.5,4,2,No,8,No
+EMP1011,49,Finance,Developer,High School,6327.0,7.2,4,4,Yes,4,No
+EMP1012,27,Operations,Developer,High School,6254.0,15.6,1,3,No,28,No
+EMP1013,57,HR,Manager,Bachelor,14013.0,1.3,4,2,No,19,No
+EMP1014,58,Finance,Developer,Bachelor,8389.0,2.7,4,2,No,22,No
+EMP1015,46,Finance,Analyst,Master,3070.0,1.1,4,3,No,16,No
+EMP1016,36,HR,Developer,Bachelor,6457.0,11.3,4,4,No,4,No
+EMP1017,34,Finance,Consultant,Master,5983.0,4.0,1,1,Yes,7,Yes
+EMP1018,22,HR,Analyst,Bachelor,10238.0,19.4,2,1,No,13,Yes
+EMP1019,26,Sales,Executive,Bachelor,9905.0,1.3,2,3,No,26,No
+EMP1020,48,Operations,Consultant,Bachelor,6142.0,7.5,1,2,No,5,No
+EMP1021,57,Operations,Consultant,Bachelor,6951.0,1.1,1,1,No,6,Yes
+EMP1022,32,Sales,Analyst,High School,11071.0,1.9,4,2,Yes,3,No
+EMP1023,41,Sales,Consultant,Bachelor,6100.0,1.3,1,1,No,19,No
+EMP1024,34,IT,Analyst,Master,8387.0,1.2,4,4,No,9,Yes
+EMP1025,29,Operations,Executive,Bachelor,6283.0,7.4,3,2,Yes,3,No
+EMP1026,30,Marketing,Developer,Master,10642.0,6.0,4,3,Yes,11,No
+EMP1027,28,HR,Executive,Bachelor,9885.0,1.5,4,3,Yes,10,No
+EMP1028,23,Marketing,Executive,Bachelor,9076.0,2.7,4,3,Yes,24,No
+EMP1029,59,Marketing,Analyst,Master,4585.0,4.7,1,4,No,25,No
+EMP1030,46,Marketing,Analyst,Bachelor,6920.0,0.5,3,2,No,9,No
+EMP1031,57,Finance,Analyst,Bachelor,8798.0,1.6,1,4,No,24,No
+EMP1032,46,IT,Analyst,PhD,7523.0,11.2,2,3,No,20,No
+EMP1033,30,Sales,Manager,PhD,4452.0,30.0,4,1,No,27,No
+EMP1034,31,Marketing,Developer,Master,9011.0,0.5,1,3,Yes,23,No
+EMP1035,56,Operations,Developer,High School,10009.0,1.1,4,3,No,29,No
+EMP1036,49,Sales,Developer,Bachelor,4148.0,1.3,1,4,No,19,Yes
+EMP1037,32,Sales,Manager,High School,6893.0,3.2,3,1,No,12,No
+EMP1038,55,Operations,Analyst,Bachelor,5188.0,0.9,4,4,No,4,No
+EMP1039,36,Sales,Analyst,Master,4002.0,28.3,4,4,Yes,26,No
+EMP1040,36,IT,Consultant,Bachelor,10519.0,0.7,1,3,No,16,Yes
+EMP1041,34,Finance,Analyst,Bachelor,10553.0,3.6,4,1,No,19,No
+EMP1042,24,Sales,Manager,Master,5569.0,2.0,4,1,Yes,14,No
+EMP1043,32,Operations,Developer,Bachelor,3459.0,4.6,1,4,No,22,No
+EMP1044,36,HR,Developer,Master,12902.0,1.1,3,2,Yes,19,No
+EMP1045,35,Marketing,Analyst,Bachelor,5796.0,1.7,3,4,No,22,No
+EMP1046,26,Marketing,Consultant,Bachelor,5947.0,4.9,1,4,No,20,No
+EMP1047,47,Marketing,Developer,Bachelor,11523.0,3.7,1,1,No,4,Yes
+EMP1048,22,Finance,Analyst,Bachelor,3000.0,7.4,3,2,Yes,28,No
+EMP1049,52,HR,Analyst,Bachelor,6034.0,2.9,2,3,No,27,No
+EMP1050,41,Operations,Analyst,Master,3898.0,2.5,4,2,Yes,19,No
+EMP1051,25,Sales,Manager,Master,12243.0,0.7,3,4,Yes,7,No
+EMP1052,58,Operations,Developer,Master,12334.0,1.8,4,4,No,7,No
+EMP1053,42,Operations,Manager,Master,6052.0,20.2,2,2,No,13,No
+EMP1054,57,HR,Consultant,Bachelor,13019.0,0.5,3,1,Yes,10,No
+EMP1055,45,Sales,Manager,Bachelor,11158.0,1.2,1,2,No,1,Yes
+EMP1056,53,HR,Executive,High School,9493.0,0.5,3,4,No,3,No
+EMP1057,59,HR,Manager,Bachelor,10543.0,6.5,4,2,No,22,No
+EMP1058,28,Marketing,Manager,Bachelor,4719.0,3.2,4,2,No,23,No
+EMP1059,47,Finance,Manager,High School,4191.0,2.0,1,3,No,9,No
+EMP1060,55,Sales,Developer,Master,12560.0,1.6,2,3,No,26,No
+EMP1061,29,Operations,Analyst,High School,10695.0,6.1,3,2,No,6,No
+EMP1062,31,Finance,Consultant,Bachelor,7175.0,4.0,2,4,No,10,No
+EMP1063,55,Finance,Executive,Bachelor,7312.0,6.3,3,2,No,8,No
+EMP1064,28,IT,Manager,Master,9250.0,3.3,3,4,Yes,3,No
+EMP1065,54,Marketing,Executive,Bachelor,9011.0,0.5,2,2,No,24,No
+EMP1066,53,Operations,Developer,Master,9837.0,0.9,1,1,No,1,No
+EMP1067,56,Finance,Consultant,Master,11819.0,4.2,3,1,No,15,No
+EMP1068,48,IT,Analyst,Bachelor,5170.0,3.4,4,3,No,3,No
+EMP1069,49,Finance,Analyst,Master,8337.0,0.5,2,4,No,28,No
+EMP1070,24,HR,Consultant,High School,10287.0,2.6,1,2,No,16,No
+EMP1071,44,Finance,Executive,High School,9244.0,3.9,2,3,Yes,27,No
+EMP1072,30,Operations,Developer,Bachelor,13756.0,1.3,1,2,No,2,No
+EMP1073,43,Operations,Consultant,Bachelor,7817.0,1.3,3,1,Yes,3,No
+EMP1074,50,Sales,Manager,Master,8164.0,8.7,1,3,No,14,No
+EMP1075,39,Operations,Manager,Master,11481.0,6.3,4,1,No,26,No
+EMP1076,49,Operations,Analyst,Bachelor,4800.0,0.5,2,1,No,14,No
+EMP1077,55,HR,Analyst,Bachelor,4439.0,4.8,2,4,No,4,No
+EMP1078,55,Finance,Developer,High School,11655.0,20.3,3,1,No,13,No
+EMP1079,51,HR,Executive,High School,9172.0,1.1,1,2,Yes,29,Yes
+EMP1080,40,HR,Consultant,Bachelor,6882.0,6.3,1,4,No,20,Yes
+EMP1081,43,IT,Analyst,Bachelor,11042.0,0.5,3,1,Yes,8,Yes
+EMP1082,33,Sales,Analyst,Master,3000.0,0.5,1,2,Yes,19,No
+EMP1083,23,Finance,Executive,Bachelor,7946.0,3.6,3,3,No,10,No
+EMP1084,52,Finance,Developer,Master,5744.0,0.5,2,1,No,13,No
+EMP1085,27,IT,Analyst,High School,9913.0,4.6,4,3,No,19,No
+EMP1086,33,Finance,Consultant,Master,8220.0,2.9,4,4,Yes,15,No
+EMP1087,31,HR,Executive,Bachelor,6844.0,2.0,1,2,No,15,No
+EMP1088,51,Finance,Developer,Bachelor,8193.0,7.9,2,1,Yes,3,No
+EMP1089,41,HR,Executive,Bachelor,8980.0,8.4,1,2,Yes,18,No
+EMP1090,31,Marketing,Executive,Bachelor,3000.0,2.2,3,1,No,28,No
+EMP1091,33,Sales,Consultant,Bachelor,6020.0,3.4,1,4,No,29,No
+EMP1092,53,Finance,Manager,High School,7496.0,4.3,4,2,No,29,No
+EMP1093,51,Finance,Analyst,High School,15885.0,9.0,2,1,No,5,No
+EMP1094,25,Finance,Manager,Bachelor,3033.0,1.7,1,4,No,15,No
+EMP1095,46,Finance,Executive,Master,10544.0,1.2,3,4,No,7,No
+EMP1096,41,Sales,Consultant,Bachelor,4615.0,7.6,3,3,No,25,No
+EMP1097,25,IT,Analyst,Master,9523.0,0.9,1,3,No,16,No
+EMP1098,22,HR,Analyst,PhD,8683.0,0.5,2,3,Yes,4,Yes
+EMP1099,26,HR,Manager,Bachelor,9693.0,23.4,3,2,No,23,No
+EMP1100,24,Marketing,Developer,High School,5373.0,4.0,3,3,Yes,3,No
+EMP1101,41,HR,Consultant,Master,8575.0,1.4,4,1,No,14,No
+EMP1102,28,Operations,Executive,Bachelor,6862.0,14.0,1,4,No,1,Yes
+EMP1103,49,Sales,Consultant,Master,5030.0,5.3,4,2,No,22,No
+EMP1104,58,HR,Developer,Master,9767.0,8.0,3,4,No,27,No
+EMP1105,58,HR,Analyst,Bachelor,11080.0,19.6,4,2,No,27,No
+EMP1106,31,Sales,Developer,Master,4182.0,14.0,4,3,No,23,No
+EMP1107,36,Marketing,Developer,Bachelor,7175.0,0.6,1,3,No,19,No
+EMP1108,52,Sales,Manager,Bachelor,8054.0,1.9,4,4,No,6,No
+EMP1109,26,Sales,Consultant,Bachelor,5738.0,4.3,2,2,No,26,No
+EMP1110,45,Operations,Manager,Bachelor,7718.0,3.3,2,2,No,12,No
+EMP1111,34,Sales,Consultant,Bachelor,3103.0,4.7,4,3,Yes,21,No
+EMP1112,54,Operations,Analyst,Bachelor,9526.0,6.0,3,1,No,9,No
+EMP1113,37,Operations,Developer,PhD,6002.0,2.0,4,1,No,25,No
+EMP1114,37,HR,Developer,High School,9186.0,19.0,2,1,Yes,21,No
+EMP1115,59,Sales,Analyst,Bachelor,5177.0,14.3,1,3,No,20,No
+EMP1116,56,Finance,Analyst,Bachelor,6343.0,0.5,4,1,No,19,No
+EMP1117,46,Marketing,Executive,Bachelor,5437.0,3.3,2,4,No,18,No
+EMP1118,25,Marketing,Consultant,High School,4831.0,5.8,4,3,No,21,No
+EMP1119,35,Sales,Manager,Master,6847.0,4.4,1,4,No,13,No
+EMP1120,49,HR,Executive,Bachelor,3000.0,19.4,3,1,Yes,16,Yes
+EMP1121,35,HR,Developer,Master,10220.0,7.4,4,2,Yes,2,No
+EMP1122,33,IT,Manager,Bachelor,9698.0,1.6,1,4,No,10,No
+EMP1123,34,Finance,Consultant,High School,10800.0,3.1,3,1,No,22,No
+EMP1124,58,Finance,Analyst,Master,3000.0,2.1,3,1,Yes,3,No
+EMP1125,28,Finance,Consultant,Master,5293.0,4.4,4,4,No,16,No
+EMP1126,31,Operations,Developer,Master,8325.0,4.6,3,1,Yes,21,No
+EMP1127,51,IT,Consultant,Master,3000.0,0.7,4,2,Yes,1,No
+EMP1128,55,Finance,Executive,PhD,9621.0,3.7,4,2,No,13,No
+EMP1129,57,Finance,Developer,Bachelor,8139.0,1.7,4,1,Yes,24,Yes
+EMP1130,41,Marketing,Manager,Bachelor,8070.0,4.4,4,4,Yes,11,Yes
+EMP1131,22,Marketing,Analyst,Bachelor,11673.0,2.2,1,4,Yes,27,No
+EMP1132,42,IT,Analyst,Master,4408.0,2.5,1,2,No,12,No
+EMP1133,50,Sales,Manager,Bachelor,5678.0,0.5,1,3,No,27,No
+EMP1134,45,Sales,Executive,PhD,5090.0,3.8,1,4,No,8,Yes
+EMP1135,47,Finance,Analyst,Master,3000.0,0.5,1,2,No,17,Yes
+EMP1136,29,IT,Manager,High School,11663.0,0.5,1,1,Yes,5,No
+EMP1137,26,Finance,Executive,Master,5998.0,1.9,4,2,Yes,5,No
+EMP1138,40,Finance,Manager,High School,6351.0,3.9,2,3,Yes,13,No
+EMP1139,44,Marketing,Consultant,Bachelor,10438.0,1.5,2,1,No,27,No
+EMP1140,29,HR,Analyst,Bachelor,14156.0,2.9,1,4,Yes,25,No
+EMP1141,47,IT,Analyst,Master,3000.0,2.2,3,2,No,12,No
+EMP1142,47,Operations,Developer,Master,6971.0,2.5,1,2,No,2,No
+EMP1143,38,Operations,Consultant,Bachelor,9022.0,3.3,4,4,No,17,No
+EMP1144,53,IT,Consultant,Master,7567.0,2.3,2,2,Yes,10,No
+EMP1145,43,Marketing,Executive,Bachelor,6474.0,12.8,1,3,No,22,Yes
+EMP1146,46,Marketing,Manager,Master,15412.0,5.1,1,3,Yes,4,Yes
+EMP1147,31,IT,Developer,Master,11853.0,1.7,4,2,No,17,No
+EMP1148,51,HR,Consultant,Bachelor,9458.0,0.7,2,4,No,8,No
+EMP1149,38,Operations,Analyst,PhD,5984.0,2.6,3,4,Yes,13,Yes
+EMP1150,38,Sales,Executive,PhD,8888.0,11.0,4,1,Yes,4,No
+EMP1151,43,Marketing,Developer,Master,7811.0,0.7,2,3,No,23,No
+EMP1152,55,Marketing,Executive,Master,5955.0,1.0,2,1,No,2,No
+EMP1153,28,Finance,Consultant,High School,5325.0,0.5,2,2,Yes,20,No
+EMP1154,26,IT,Analyst,High School,3697.0,6.5,4,2,No,3,No
+EMP1155,44,IT,Consultant,Master,8164.0,2.6,2,3,No,21,No
+EMP1156,23,IT,Developer,Bachelor,3848.0,5.5,1,1,No,12,No
+EMP1157,40,Finance,Executive,Master,13302.0,4.3,3,1,No,15,Yes
+EMP1158,23,Sales,Executive,Bachelor,5055.0,2.8,2,4,No,1,No
+EMP1159,57,IT,Consultant,Master,4980.0,2.8,2,1,No,9,Yes
+EMP1160,40,Sales,Executive,Bachelor,10923.0,10.1,2,2,No,25,No
+EMP1161,50,Marketing,Developer,Bachelor,12667.0,5.1,1,4,No,20,No
+EMP1162,31,Marketing,Manager,Bachelor,11026.0,0.5,4,3,Yes,19,No
+EMP1163,54,Marketing,Analyst,High School,9089.0,0.5,4,2,No,1,No
+EMP1164,36,IT,Consultant,Bachelor,11871.0,7.3,3,4,No,11,No
+EMP1165,27,Sales,Developer,Bachelor,8939.0,12.7,3,1,Yes,1,No
+EMP1166,38,HR,Developer,Bachelor,4317.0,3.0,1,2,No,7,No
+EMP1167,30,Sales,Executive,Master,7285.0,11.7,4,1,No,9,No
+EMP1168,38,HR,Executive,Bachelor,8555.0,3.8,2,2,Yes,8,No
+EMP1169,54,IT,Manager,Master,6782.0,1.0,4,2,No,1,No
+EMP1170,51,Sales,Manager,Bachelor,8747.0,0.5,2,3,No,10,No
+EMP1171,33,Marketing,Executive,Master,3000.0,2.0,4,2,No,9,No
+EMP1172,41,Sales,Consultant,Master,10726.0,2.8,1,2,No,17,No
+EMP1173,22,Marketing,Executive,Bachelor,6678.0,7.7,3,2,No,18,No
+EMP1174,44,HR,Developer,PhD,9578.0,1.1,4,2,No,6,No
+EMP1175,54,HR,Executive,High School,3000.0,4.1,3,1,No,12,No
+EMP1176,36,IT,Manager,Bachelor,4033.0,0.5,1,1,No,13,Yes
+EMP1177,30,Operations,Executive,Bachelor,5197.0,10.2,3,1,Yes,24,No
+EMP1178,38,Sales,Manager,Master,6774.0,1.5,4,4,Yes,28,No
+EMP1179,40,Sales,Manager,Bachelor,15353.0,10.0,4,3,Yes,23,No
+EMP1180,50,HR,Executive,Bachelor,9211.0,4.3,4,2,Yes,23,No
+EMP1181,41,Sales,Developer,PhD,9528.0,2.3,4,2,Yes,26,No
+EMP1182,26,Marketing,Analyst,PhD,7754.0,0.8,3,3,No,28,Yes
+EMP1183,34,HR,Analyst,PhD,9811.0,5.4,1,3,No,28,No
+EMP1184,32,Marketing,Consultant,PhD,11111.0,0.8,4,1,No,23,No
+EMP1185,41,Finance,Executive,Bachelor,8590.0,2.6,1,1,No,5,No
+EMP1186,56,Sales,Developer,Bachelor,10397.0,1.5,3,1,Yes,14,No
+EMP1187,49,Finance,Consultant,Bachelor,9745.0,4.9,3,4,Yes,3,No
+EMP1188,22,HR,Manager,Bachelor,11644.0,6.3,3,1,No,12,No
+EMP1189,38,Finance,Executive,Bachelor,4111.0,7.3,3,4,Yes,3,No
+EMP1190,55,Operations,Consultant,Bachelor,10522.0,12.5,4,1,No,21,No
+EMP1191,38,Marketing,Analyst,High School,6870.0,0.5,2,4,Yes,14,Yes
+EMP1192,47,Marketing,Manager,High School,5344.0,6.0,1,1,Yes,24,No
+EMP1193,39,HR,Manager,Bachelor,8822.0,3.4,2,2,Yes,1,No
+EMP1194,44,Marketing,Developer,Master,6160.0,7.7,1,3,No,19,No
+EMP1195,40,HR,Executive,Bachelor,11971.0,1.5,3,4,No,17,Yes
+EMP1196,22,IT,Manager,PhD,9706.0,5.2,2,3,No,5,No
+EMP1197,49,IT,Consultant,High School,13158.0,0.5,4,2,No,21,No
+EMP1198,23,IT,Consultant,Master,8463.0,1.4,1,4,Yes,6,Yes
+EMP1199,41,Marketing,Manager,Master,12388.0,12.2,3,3,No,27,No
+EMP1200,33,Operations,Analyst,Master,4654.0,4.4,3,4,No,19,No
+EMP1201,54,HR,Consultant,Bachelor,5351.0,0.5,4,3,No,18,No
+EMP1202,44,Operations,Developer,Master,6203.0,6.3,2,2,No,9,No
+EMP1203,58,Operations,Developer,Bachelor,12322.0,1.4,2,3,No,16,No
+EMP1204,30,Sales,Manager,Master,4232.0,7.0,3,3,No,11,No
+EMP1205,53,Marketing,Manager,Bachelor,6140.0,5.1,1,4,No,15,No
+EMP1206,54,Operations,Manager,Bachelor,9392.0,6.9,4,2,Yes,1,No
+EMP1207,34,Operations,Executive,Bachelor,12206.0,10.9,4,4,No,19,No
+EMP1208,51,IT,Developer,PhD,11380.0,1.2,1,4,No,11,No
+EMP1209,23,Marketing,Analyst,Master,8081.0,4.5,3,1,Yes,1,No
+EMP1210,45,IT,Developer,Bachelor,6101.0,1.1,1,4,No,24,No
+EMP1211,55,Sales,Executive,Bachelor,5894.0,1.6,1,4,No,7,Yes
+EMP1212,56,IT,Developer,Bachelor,7242.0,6.7,4,3,No,5,No
+EMP1213,48,Operations,Consultant,Bachelor,13326.0,18.2,1,1,No,10,Yes
+EMP1214,28,IT,Developer,Bachelor,7375.0,3.2,3,3,Yes,12,No
+EMP1215,50,IT,Manager,Master,3197.0,2.3,4,2,Yes,16,No
+EMP1216,28,HR,Executive,Master,8774.0,3.6,2,4,No,4,No
+EMP1217,53,IT,Consultant,Bachelor,7025.0,18.5,3,2,Yes,12,No
+EMP1218,52,Marketing,Consultant,Master,3000.0,1.6,1,3,Yes,3,No
+EMP1219,29,HR,Analyst,Bachelor,10058.0,3.0,4,4,Yes,28,Yes
+EMP1220,33,Operations,Analyst,Bachelor,6995.0,0.7,2,3,No,9,No
+EMP1221,35,HR,Consultant,Master,8045.0,7.7,1,4,Yes,8,No
+EMP1222,52,IT,Manager,Master,5071.0,2.0,2,4,No,3,No
+EMP1223,42,Marketing,Executive,PhD,10173.0,3.8,3,3,No,24,No
+EMP1224,56,Operations,Analyst,Bachelor,16573.0,5.9,4,4,No,13,No
+EMP1225,28,Operations,Executive,Master,8404.0,7.8,4,3,No,24,No
+EMP1226,27,Operations,Manager,Bachelor,6485.0,1.1,2,2,No,24,No
+EMP1227,36,Sales,Analyst,Bachelor,9299.0,16.1,2,2,Yes,17,Yes
+EMP1228,24,HR,Consultant,High School,4800.0,0.8,3,3,Yes,8,Yes
+EMP1229,47,IT,Executive,PhD,7949.0,1.2,2,1,No,18,No
+EMP1230,32,HR,Manager,Bachelor,7621.0,0.5,4,2,No,2,No
+EMP1231,59,Operations,Analyst,Bachelor,11275.0,7.0,3,1,Yes,2,No
+EMP1232,29,Marketing,Manager,Bachelor,6845.0,4.2,1,4,Yes,7,No
+EMP1233,58,Sales,Consultant,Bachelor,11140.0,9.3,4,1,Yes,10,No
+EMP1234,29,Operations,Executive,Bachelor,4642.0,0.9,2,1,No,27,No
+EMP1235,33,IT,Manager,High School,8941.0,3.9,4,4,No,28,No
+EMP1236,30,Sales,Manager,Master,8429.0,4.5,3,2,Yes,28,No
+EMP1237,44,IT,Consultant,Master,9743.0,4.5,1,3,No,2,No
+EMP1238,40,HR,Executive,Master,11860.0,8.5,3,2,Yes,4,No
+EMP1239,25,IT,Consultant,Bachelor,7515.0,3.4,2,3,No,26,No
+EMP1240,27,Marketing,Analyst,Bachelor,12633.0,3.5,2,4,No,11,No
+EMP1241,31,Finance,Analyst,PhD,4675.0,0.8,2,2,Yes,2,Yes
+EMP1242,23,Marketing,Consultant,PhD,6979.0,1.1,2,2,Yes,13,No
+EMP1243,36,IT,Executive,Bachelor,7325.0,7.6,1,4,Yes,27,Yes
+EMP1244,48,Finance,Manager,PhD,5611.0,17.2,3,4,No,10,No
+EMP1245,59,Finance,Consultant,Bachelor,5491.0,2.9,3,1,Yes,9,No
+EMP1246,23,Operations,Analyst,PhD,7725.0,12.9,2,2,Yes,4,No
+EMP1247,52,Marketing,Analyst,Bachelor,13892.0,5.8,3,2,No,25,No
+EMP1248,35,Sales,Developer,PhD,5308.0,0.5,2,2,Yes,28,No
+EMP1249,34,Operations,Executive,Master,3000.0,3.5,3,4,No,26,No
+EMP1250,38,Finance,Manager,Master,7145.0,3.6,3,2,No,3,No
+EMP1251,42,Sales,Consultant,Bachelor,11088.0,2.2,2,4,No,11,No
+EMP1252,47,Operations,Consultant,Master,3000.0,7.6,3,4,No,5,No
+EMP1253,55,Finance,Consultant,Bachelor,8183.0,2.8,2,3,Yes,20,No
+EMP1254,54,IT,Analyst,Bachelor,12773.0,9.6,3,2,No,26,No
+EMP1255,32,Marketing,Developer,Bachelor,10622.0,5.0,2,2,Yes,6,No
+EMP1256,54,Operations,Executive,Bachelor,5750.0,4.6,3,3,No,14,No
+EMP1257,28,Finance,Analyst,Bachelor,11071.0,0.5,2,2,No,29,No
+EMP1258,41,Finance,Analyst,Master,9815.0,9.5,2,2,No,29,No
+EMP1259,32,HR,Developer,High School,5346.0,2.8,2,1,No,29,No
+EMP1260,36,Marketing,Developer,Master,8409.0,6.6,3,1,No,6,No
+EMP1261,58,Finance,Developer,PhD,8192.0,5.2,3,1,Yes,12,No
+EMP1262,40,HR,Manager,Bachelor,12948.0,3.8,1,4,No,19,No
+EMP1263,37,Sales,Analyst,Bachelor,12125.0,8.2,2,1,No,11,No
+EMP1264,34,Marketing,Manager,High School,12653.0,0.8,3,2,Yes,15,No
+EMP1265,43,Sales,Executive,Master,3000.0,2.3,1,2,No,27,No
+EMP1266,54,Sales,Developer,Master,6248.0,4.2,4,1,No,1,No
+EMP1267,26,IT,Developer,Bachelor,4838.0,0.5,1,2,No,1,Yes
+EMP1268,52,Sales,Consultant,High School,4287.0,5.2,2,1,Yes,23,Yes
+EMP1269,40,Finance,Analyst,Bachelor,9700.0,3.3,1,4,Yes,12,Yes
+EMP1270,29,HR,Developer,Bachelor,9506.0,0.5,2,1,Yes,11,Yes
+EMP1271,30,Operations,Consultant,Bachelor,9448.0,1.1,3,2,No,25,No
+EMP1272,58,Marketing,Developer,Bachelor,5977.0,8.2,2,4,No,15,No
+EMP1273,45,Finance,Manager,Bachelor,15972.0,10.8,2,1,No,13,No
+EMP1274,46,IT,Developer,Bachelor,8804.0,6.9,1,1,No,2,No
+EMP1275,23,Marketing,Manager,Master,7738.0,6.1,4,1,No,23,Yes
+EMP1276,29,IT,Executive,Bachelor,9451.0,2.7,2,1,No,8,No
+EMP1277,45,Operations,Manager,PhD,10764.0,12.0,3,4,No,17,No
+EMP1278,22,Marketing,Consultant,Bachelor,8682.0,11.1,3,4,No,29,No
+EMP1279,48,Finance,Manager,Bachelor,7925.0,12.2,4,2,No,2,No
+EMP1280,46,Finance,Analyst,Master,7300.0,2.4,2,3,Yes,25,No
+EMP1281,38,Finance,Consultant,High School,7420.0,0.5,3,2,No,3,No
+EMP1282,31,Finance,Developer,High School,14257.0,3.5,3,1,Yes,12,No
+EMP1283,47,Sales,Consultant,Bachelor,9591.0,0.5,3,3,No,3,No
+EMP1284,29,Finance,Executive,Bachelor,6332.0,1.6,1,4,No,21,No
+EMP1285,45,Finance,Analyst,Master,6044.0,5.7,4,4,Yes,22,No
+EMP1286,40,Sales,Executive,Master,7539.0,15.0,1,3,No,15,No
+EMP1287,30,Operations,Analyst,Bachelor,13734.0,9.4,4,1,Yes,15,Yes
+EMP1288,23,Finance,Consultant,Master,11748.0,0.9,2,2,No,25,No
+EMP1289,46,Sales,Executive,High School,8261.0,7.1,2,2,No,19,No
+EMP1290,51,Sales,Executive,Bachelor,10920.0,0.5,1,2,No,24,No
+EMP1291,47,Finance,Developer,Bachelor,7754.0,1.8,4,4,No,18,No
+EMP1292,39,HR,Analyst,Bachelor,7622.0,6.7,4,3,No,15,No
+EMP1293,57,IT,Executive,Bachelor,7179.0,15.2,2,2,No,7,No
+EMP1294,56,Sales,Analyst,Master,9444.0,12.9,1,3,No,24,No
+EMP1295,35,HR,Analyst,Master,4028.0,2.2,4,1,Yes,12,No
+EMP1296,27,IT,Developer,Bachelor,7942.0,2.8,4,4,No,12,No
+EMP1297,54,IT,Analyst,PhD,3000.0,7.4,3,2,No,22,No
+EMP1298,42,HR,Developer,Bachelor,8228.0,11.0,3,3,No,24,No
+EMP1299,55,IT,Analyst,Bachelor,13091.0,4.0,2,1,No,2,No
+EMP1300,59,Operations,Developer,Master,10765.0,5.9,3,2,No,26,No
+EMP1301,57,Marketing,Analyst,Master,6433.0,0.7,4,4,Yes,24,No
+EMP1302,38,Marketing,Executive,High School,8922.0,1.0,4,2,Yes,27,Yes
+EMP1303,37,Operations,Analyst,Bachelor,6938.0,0.5,4,3,Yes,15,No
+EMP1304,42,IT,Executive,Master,6194.0,2.6,4,2,No,7,No
+EMP1305,27,HR,Analyst,Bachelor,11344.0,8.1,2,4,No,6,No
+EMP1306,24,HR,Analyst,PhD,7639.0,2.4,1,4,Yes,5,No
+EMP1307,31,Finance,Consultant,Bachelor,15086.0,2.7,1,3,Yes,9,No
+EMP1308,27,HR,Manager,Bachelor,10106.0,2.1,4,1,Yes,28,Yes
+EMP1309,29,IT,Consultant,PhD,10539.0,3.4,4,2,Yes,3,No
+EMP1310,52,Sales,Developer,Master,9707.0,1.0,3,3,No,29,No
+EMP1311,48,Marketing,Analyst,Master,4760.0,1.4,4,3,No,7,No
+EMP1312,22,Finance,Developer,Bachelor,3764.0,6.4,2,4,No,4,No
+EMP1313,22,Operations,Consultant,Bachelor,6421.0,11.5,4,4,No,8,No
+EMP1314,59,IT,Executive,Master,7738.0,2.5,2,3,No,19,No
+EMP1315,25,Finance,Executive,Bachelor,8106.0,2.3,3,4,No,11,No
+EMP1316,45,Sales,Consultant,High School,6259.0,12.3,3,1,Yes,5,No
+EMP1317,44,Operations,Consultant,High School,12726.0,12.8,4,4,No,13,No
+EMP1318,24,IT,Manager,PhD,4106.0,8.8,2,1,Yes,22,No
+EMP1319,23,HR,Consultant,PhD,6410.0,7.3,3,4,Yes,16,Yes
+EMP1320,46,HR,Developer,PhD,6599.0,4.7,4,3,No,25,No
+EMP1321,44,Operations,Developer,Master,7980.0,8.9,3,3,No,25,No
+EMP1322,34,Marketing,Manager,High School,9368.0,6.1,1,4,No,12,No
+EMP1323,41,Finance,Manager,Master,10753.0,4.3,2,1,No,15,No
+EMP1324,51,Operations,Consultant,Bachelor,13100.0,0.5,2,3,No,27,Yes
+EMP1325,37,Finance,Analyst,Bachelor,3000.0,0.5,4,2,No,19,No
+EMP1326,24,Operations,Consultant,Bachelor,7627.0,5.0,4,3,No,28,No
+EMP1327,50,HR,Manager,Bachelor,9418.0,1.4,3,4,No,4,Yes
+EMP1328,29,IT,Developer,Bachelor,9463.0,0.5,2,4,No,27,No
+EMP1329,56,Operations,Executive,Bachelor,7443.0,1.0,2,2,No,9,No
+EMP1330,25,IT,Developer,PhD,6266.0,0.5,4,1,Yes,6,No
+EMP1331,54,IT,Executive,Master,8869.0,2.9,3,1,No,11,No
+EMP1332,39,IT,Manager,Master,3000.0,0.5,3,1,No,23,No
+EMP1333,39,Operations,Developer,Bachelor,5579.0,15.2,1,4,Yes,6,No
+EMP1334,56,Operations,Analyst,High School,3981.0,8.1,4,2,Yes,26,No
+EMP1335,31,Finance,Executive,Bachelor,11584.0,2.6,1,1,No,2,No
+EMP1336,50,Finance,Analyst,Bachelor,5051.0,6.2,2,1,No,13,No
+EMP1337,58,Operations,Developer,PhD,7439.0,15.9,2,2,No,17,No
+EMP1338,31,Marketing,Consultant,Bachelor,6240.0,0.5,4,2,No,9,No
+EMP1339,53,Marketing,Executive,Master,6456.0,0.5,3,3,No,11,No
+EMP1340,55,Marketing,Manager,Bachelor,12649.0,4.5,2,1,Yes,24,No
+EMP1341,33,Marketing,Analyst,High School,7580.0,1.6,3,2,Yes,13,Yes
+EMP1342,28,Marketing,Analyst,Master,11769.0,5.3,2,1,No,19,No
+EMP1343,31,IT,Developer,Bachelor,13526.0,4.4,1,2,Yes,3,No
+EMP1344,45,Finance,Manager,Master,3364.0,0.5,3,2,Yes,21,No
+EMP1345,52,IT,Developer,Bachelor,5983.0,3.2,2,4,No,24,No
+EMP1346,56,IT,Executive,Bachelor,13058.0,3.8,2,3,Yes,13,No
+EMP1347,25,HR,Manager,Bachelor,3976.0,1.3,1,1,No,14,No
+EMP1348,44,IT,Executive,Bachelor,3000.0,27.7,2,1,Yes,7,No
+EMP1349,44,Marketing,Manager,Master,6846.0,11.1,2,3,No,19,No
+EMP1350,55,Operations,Manager,Bachelor,4060.0,3.7,4,3,No,12,No
+EMP1351,25,Finance,Consultant,Bachelor,6153.0,0.6,3,4,No,21,No
+EMP1352,49,HR,Analyst,Bachelor,10255.0,13.5,4,4,No,3,No
+EMP1353,26,Sales,Executive,Bachelor,3959.0,1.8,2,3,No,3,No
+EMP1354,53,Finance,Executive,Bachelor,4040.0,0.5,4,2,No,24,Yes
+EMP1355,36,Marketing,Analyst,Master,4908.0,0.8,2,3,Yes,7,No
+EMP1356,57,Sales,Analyst,Master,12856.0,1.0,4,3,Yes,9,Yes
+EMP1357,55,Sales,Consultant,Bachelor,7030.0,0.6,1,3,No,24,Yes
+EMP1358,59,IT,Executive,Bachelor,7244.0,0.9,3,4,Yes,7,No
+EMP1359,26,IT,Manager,Master,6675.0,0.5,3,2,No,29,No
+EMP1360,42,Finance,Consultant,Bachelor,10776.0,3.7,3,3,Yes,7,No
+EMP1361,52,Sales,Executive,Bachelor,12293.0,9.2,1,3,No,25,No
+EMP1362,42,Marketing,Analyst,Master,3670.0,2.1,4,4,Yes,7,Yes
+EMP1363,55,IT,Analyst,Bachelor,11811.0,6.8,2,1,No,7,No
+EMP1364,59,Finance,Manager,High School,9881.0,7.7,1,4,No,8,No
+EMP1365,31,Sales,Analyst,High School,10140.0,9.8,4,3,No,1,No
+EMP1366,51,Operations,Manager,Master,9706.0,1.0,3,3,No,29,No
+EMP1367,37,Finance,Executive,Bachelor,6092.0,2.4,1,2,No,7,No
+EMP1368,58,Marketing,Analyst,Master,10507.0,4.9,3,1,Yes,5,Yes
+EMP1369,23,Sales,Executive,Master,7935.0,0.7,4,1,No,18,No
+EMP1370,59,Finance,Manager,Bachelor,6008.0,4.5,2,3,Yes,7,No
+EMP1371,37,Marketing,Analyst,Master,4776.0,10.6,3,1,No,27,No
+EMP1372,28,Marketing,Consultant,High School,10509.0,1.1,4,4,No,2,No
+EMP1373,43,Marketing,Manager,PhD,9596.0,0.5,2,4,No,4,No
+EMP1374,58,HR,Analyst,High School,3670.0,4.0,1,4,No,28,No
+EMP1375,36,Finance,Analyst,High School,9655.0,8.3,3,4,No,3,No
+EMP1376,50,IT,Consultant,Bachelor,8361.0,6.0,4,1,No,20,No
+EMP1377,52,HR,Consultant,High School,8707.0,0.5,1,1,No,5,No
+EMP1378,24,HR,Executive,Bachelor,6848.0,6.9,4,2,Yes,28,No
+EMP1379,55,Operations,Developer,Bachelor,5213.0,5.5,3,4,No,15,No
+EMP1380,52,IT,Manager,PhD,9808.0,3.9,1,2,No,17,No
+EMP1381,34,Marketing,Consultant,Bachelor,4460.0,1.7,4,3,No,24,No
+EMP1382,50,Sales,Manager,Bachelor,3857.0,11.4,4,2,No,12,No
+EMP1383,45,Marketing,Analyst,PhD,11879.0,4.1,3,2,Yes,18,No
+EMP1384,27,Operations,Manager,Bachelor,8191.0,0.6,1,4,Yes,15,No
+EMP1385,44,Operations,Executive,Master,5148.0,6.3,4,3,No,24,No
+EMP1386,43,HR,Consultant,Bachelor,6186.0,2.5,1,4,No,26,No
+EMP1387,46,Marketing,Developer,High School,8802.0,2.3,3,2,No,19,No
+EMP1388,34,Operations,Analyst,Master,8943.0,1.5,3,2,Yes,11,No
+EMP1389,24,Operations,Executive,PhD,4434.0,16.4,3,4,No,10,No
+EMP1390,51,Finance,Consultant,Bachelor,3349.0,3.8,4,1,Yes,7,Yes
+EMP1391,35,HR,Consultant,PhD,13687.0,3.1,4,1,No,2,No
+EMP1392,40,Marketing,Analyst,Bachelor,8556.0,0.5,4,4,No,16,No
+EMP1393,34,Operations,Consultant,Master,6386.0,4.3,4,1,Yes,8,No
+EMP1394,43,Finance,Developer,Bachelor,9567.0,6.1,2,2,No,2,No
+EMP1395,44,Operations,Consultant,Bachelor,6758.0,0.5,1,4,No,2,No
+EMP1396,50,Finance,Analyst,Bachelor,3000.0,0.6,3,4,No,25,No
+EMP1397,33,Finance,Analyst,Master,10277.0,12.1,4,2,No,20,No
+EMP1398,56,Operations,Executive,Bachelor,7586.0,0.6,2,4,No,4,No
+EMP1399,46,Finance,Developer,Master,4522.0,3.8,3,4,Yes,4,Yes
+EMP1400,52,Operations,Analyst,Master,12381.0,0.9,3,3,No,10,No
+EMP1401,23,IT,Executive,Master,8841.0,7.8,4,3,No,29,No
+EMP1402,49,Sales,Consultant,Bachelor,8751.0,3.4,4,3,Yes,25,Yes
+EMP1403,23,HR,Manager,High School,5769.0,18.0,2,3,No,22,No
+EMP1404,57,Finance,Executive,Bachelor,6522.0,5.3,1,4,No,26,No
+EMP1405,22,Marketing,Manager,PhD,12116.0,11.7,2,3,No,23,No
+EMP1406,31,IT,Consultant,High School,9370.0,0.5,2,3,No,7,No
+EMP1407,22,Marketing,Analyst,Bachelor,9033.0,11.8,4,2,Yes,29,No
+EMP1408,30,Marketing,Manager,Master,10420.0,2.8,1,4,No,24,No
+EMP1409,23,Operations,Manager,Bachelor,5773.0,1.5,3,4,No,21,No
+EMP1410,45,Sales,Consultant,Master,10734.0,20.8,3,3,No,4,No
+EMP1411,46,Finance,Developer,Bachelor,8938.0,14.8,4,1,No,26,Yes
+EMP1412,36,Marketing,Developer,Master,7962.0,4.0,1,2,No,9,No
+EMP1413,48,Sales,Executive,PhD,3000.0,12.9,4,2,No,17,No
+EMP1414,23,Operations,Consultant,Master,8926.0,1.3,1,2,Yes,4,No
+EMP1415,46,Finance,Analyst,Master,3925.0,9.8,4,4,No,21,No
+EMP1416,33,Marketing,Manager,Bachelor,8593.0,1.4,2,2,Yes,4,No
+EMP1417,37,IT,Analyst,High School,6375.0,7.7,2,1,No,10,No
+EMP1418,31,Marketing,Analyst,Master,10783.0,3.3,1,3,No,6,Yes
+EMP1419,28,Operations,Developer,Master,5124.0,10.5,1,4,No,29,No
+EMP1420,30,HR,Consultant,Bachelor,7035.0,0.5,4,1,Yes,20,No
+EMP1421,39,HR,Consultant,Bachelor,8054.0,0.5,2,4,No,7,No
+EMP1422,32,Finance,Developer,Bachelor,3000.0,6.3,1,1,Yes,22,Yes
+EMP1423,50,Operations,Consultant,Master,5297.0,1.0,1,2,Yes,21,Yes
+EMP1424,53,IT,Executive,Master,8184.0,0.5,3,3,No,29,Yes
+EMP1425,55,Finance,Developer,High School,4579.0,5.0,4,2,Yes,3,No
+EMP1426,34,Finance,Executive,Bachelor,4453.0,3.9,4,3,No,24,No
+EMP1427,53,Operations,Developer,High School,6905.0,2.2,3,2,No,29,No
+EMP1428,48,HR,Consultant,Master,7566.0,4.6,4,4,No,8,No
+EMP1429,22,HR,Analyst,Master,7522.0,13.6,1,1,No,28,No
+EMP1430,52,Operations,Developer,Master,7939.0,2.3,1,3,No,11,No
+EMP1431,35,Marketing,Developer,Bachelor,7510.0,1.2,2,4,No,23,No
+EMP1432,38,Sales,Consultant,Bachelor,9560.0,1.2,2,3,Yes,28,Yes
+EMP1433,42,Operations,Analyst,High School,5006.0,6.2,4,2,No,28,No
+EMP1434,58,Finance,Manager,Master,8122.0,1.6,4,1,No,16,Yes
+EMP1435,39,Marketing,Manager,Bachelor,9594.0,1.2,2,4,No,8,Yes
+EMP1436,53,Finance,Manager,Master,3667.0,12.1,2,2,No,6,No
+EMP1437,49,Operations,Consultant,Bachelor,8824.0,1.2,2,1,No,26,Yes
+EMP1438,46,Marketing,Executive,Master,12278.0,10.7,2,2,No,11,No
+EMP1439,23,IT,Developer,Master,5938.0,9.7,1,3,Yes,13,No
+EMP1440,58,Finance,Manager,Bachelor,10535.0,1.9,3,2,Yes,29,No
+EMP1441,51,Finance,Consultant,Master,10315.0,6.8,4,4,Yes,4,No
+EMP1442,54,Operations,Manager,Master,12924.0,20.4,3,3,No,3,No
+EMP1443,59,Finance,Consultant,Bachelor,8438.0,16.7,4,1,Yes,26,No
+EMP1444,30,Sales,Consultant,High School,5216.0,7.5,3,2,No,21,No
+EMP1445,56,Finance,Consultant,Bachelor,10177.0,0.5,2,1,Yes,9,No
+EMP1446,36,Operations,Manager,Master,4144.0,3.8,1,4,No,29,No
+EMP1447,39,IT,Manager,High School,14811.0,1.1,3,4,No,24,No
+EMP1448,27,Finance,Analyst,High School,12360.0,2.0,1,2,Yes,27,No
+EMP1449,50,Sales,Consultant,Bachelor,8079.0,5.4,2,4,Yes,27,No
+EMP1450,42,Sales,Developer,Master,5994.0,8.6,3,4,No,13,No
+EMP1451,42,Operations,Consultant,Master,8591.0,7.0,2,3,No,25,No
+EMP1452,22,HR,Executive,Bachelor,6861.0,2.5,2,1,No,12,No
+EMP1453,56,Finance,Developer,High School,6607.0,0.5,4,2,No,2,No
+EMP1454,52,Finance,Developer,High School,8761.0,0.5,4,4,Yes,13,No
+EMP1455,58,IT,Manager,High School,7817.0,6.2,1,1,Yes,26,Yes
+EMP1456,46,Finance,Executive,Master,6654.0,0.9,2,3,Yes,26,Yes
+EMP1457,56,Operations,Developer,Bachelor,6395.0,23.6,2,2,No,27,No
+EMP1458,59,HR,Analyst,Master,5008.0,6.1,1,2,No,28,No
+EMP1459,33,IT,Developer,Master,11633.0,2.2,4,1,No,9,No
+EMP1460,26,Marketing,Executive,Bachelor,11222.0,2.8,2,3,No,27,No
+EMP1461,25,IT,Manager,Master,10043.0,1.9,3,3,Yes,1,No
+EMP1462,41,Sales,Consultant,Master,8624.0,8.3,1,3,No,25,No
+EMP1463,33,Marketing,Analyst,Bachelor,3114.0,2.8,2,4,No,6,Yes
+EMP1464,22,HR,Manager,High School,10608.0,6.2,4,4,Yes,10,No
+EMP1465,33,Sales,Manager,Master,8359.0,1.8,3,3,No,14,No
+EMP1466,58,Marketing,Developer,Bachelor,11455.0,1.0,3,4,Yes,28,Yes
+EMP1467,44,IT,Analyst,Master,11335.0,12.5,3,4,No,26,No
+EMP1468,43,HR,Manager,Bachelor,13639.0,0.5,2,3,Yes,1,No
+EMP1469,46,HR,Executive,Bachelor,11649.0,9.5,2,3,No,17,No
+EMP1470,37,Operations,Executive,Bachelor,5996.0,0.5,3,2,No,7,No
+EMP1471,45,IT,Consultant,Bachelor,11345.0,0.9,1,2,No,26,No
+EMP1472,59,HR,Developer,Bachelor,5598.0,10.6,1,3,No,20,No
+EMP1473,51,HR,Analyst,High School,6340.0,0.5,3,4,Yes,22,No
+EMP1474,43,HR,Executive,High School,11301.0,0.8,2,4,No,13,No
+EMP1475,48,HR,Developer,Master,7300.0,1.8,2,4,Yes,15,Yes
+EMP1476,28,Sales,Developer,High School,7992.0,4.8,2,3,No,6,No
+EMP1477,50,Operations,Executive,Bachelor,8683.0,1.9,3,2,No,18,No
+EMP1478,52,Operations,Developer,Bachelor,8440.0,3.5,1,2,No,10,No
+EMP1479,45,Finance,Executive,Bachelor,4384.0,0.8,3,4,No,15,No
+EMP1480,37,HR,Executive,Bachelor,5102.0,14.9,2,3,Yes,25,No
+EMP1481,45,Finance,Executive,Master,5986.0,2.9,1,1,No,13,No
+EMP1482,51,IT,Consultant,Bachelor,7703.0,6.3,4,2,No,3,No
+EMP1483,23,IT,Analyst,Master,6442.0,1.2,4,1,No,7,Yes
+EMP1484,36,Operations,Developer,Master,9210.0,13.5,4,2,No,14,No
+EMP1485,41,Marketing,Executive,Master,5543.0,6.3,3,1,No,8,No
+EMP1486,22,Sales,Consultant,Master,7662.0,5.5,2,1,No,28,No
+EMP1487,51,Operations,Executive,Master,10203.0,2.0,3,1,No,9,No
+EMP1488,37,Marketing,Developer,Bachelor,6805.0,6.4,4,2,No,27,No
+EMP1489,57,HR,Consultant,Bachelor,11529.0,12.8,4,2,Yes,23,No
+EMP1490,50,HR,Consultant,Bachelor,4935.0,2.5,2,4,No,12,No
+EMP1491,50,Marketing,Consultant,High School,4696.0,3.7,4,2,Yes,21,Yes
+EMP1492,28,HR,Developer,PhD,6674.0,4.8,4,1,No,3,No
+EMP1493,44,HR,Consultant,Bachelor,6773.0,3.7,2,4,No,29,No
+EMP1494,46,HR,Analyst,Bachelor,9870.0,4.5,2,2,No,9,No
+EMP1495,59,Sales,Developer,Master,8914.0,1.4,3,3,No,27,No
+EMP1496,34,Marketing,Manager,Master,9404.0,3.4,1,3,No,13,No
+EMP1497,41,Operations,Developer,Bachelor,10626.0,7.0,3,1,Yes,3,No
+EMP1498,27,HR,Analyst,Bachelor,5612.0,0.5,4,1,No,20,No
+EMP1499,22,Sales,Analyst,Bachelor,9482.0,0.7,3,2,No,29,No
+EMP1500,25,Sales,Manager,Bachelor,5593.0,0.8,3,4,No,26,No
